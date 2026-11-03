@@ -33,7 +33,3 @@
 | 2026-09-18 | [[F28P65x / CPU1] 개발보드 토글(Toggle) 스위치 테스트 예제                                        ](https://www.tms320f28x.co.kr/board/view.php?bdId=tms320f28xevmv2&sno=106) |
 | 2026-09-18 | [[F28P65x / CPU1] 개발보드 택트(Tactile) 스위치 테스트 예제                                        ](https://www.tms320f28x.co.kr/board/view.php?bdId=tms320f28xevmv2&sno=105) |
 | 2026-09-18 | [[F28P65x / CPU1] 3채널 PWM-to-Analog 출력 예제                                        ](https://www.tms320f28x.co.kr/board/view.php?bdId=tms320f28xevmv2&sno=104) |
-
-## 재사용
-
-[고도몰 SFTP → GitHub 스킬](../skills/godomall-sftp-to-github/SKILL.md)을 다른 AI에서도 사용할 수 있습니다. 이 작업에서는 날짜 범위 밖의 같은 게시판 글까지 참조 조사에 포함했습니다.

@@ -121,6 +121,5 @@
 
 - [이전 결과·삭제 및 보존 내역](docs/migration-tms320f28xevmv2-2026-11-04.md)
 - [파일 목록과 SHA-256](docs/tms320f28xevmv2-manifest.json)
-- [다른 AI를 위한 재사용 스킬](skills/godomall-sftp-to-github/SKILL.md)
 
 기본·활용예제는 [c2000_example](https://github.com/c2000mcu-dev/c2000_example), SMC300 예제는 [smcexam](https://github.com/c2000mcu-dev/smcexam)에 보관합니다.
