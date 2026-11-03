@@ -5,8 +5,8 @@
 - 자료가 있는 예제: **81개**
 - 원문 유지 공지: **1개**
 - 게시물별 자료 파일: **364개**
-- ZIP·데이터시트·본문 이미지를 원본 그대로 보관하고, 각 파일의 SHA-256을 기록했습니다.
-- 설치 파일이나 예제 프로그램을 실행하지 않았습니다. 사용 조건은 원본 배포 자료를 따릅니다.
+- ZIP·데이터시트·예제 이미지와 각 파일의 SHA-256을 제공합니다.
+- 사용 조건은 배포 자료에 포함된 내용을 따릅니다.
 
 ## 예제 목록
 
@@ -117,9 +117,9 @@
 | 81 | 2026-01-19 | [[F28P55x / CPU1] RS232 통신 External Loopback 예제](tms320f28xevmv2/0081-post-102/) | 3 |
 | 82 | 2026-01-20 | [[F28P55x / CPU1] I2C 통신 External Loopback 예제](tms320f28xevmv2/0082-post-103/) | 3 |
 
-## 이전 기록과 검증
+## 자료 안내
 
-- [이전 결과·삭제 및 보존 내역](docs/migration-tms320f28xevmv2-2026-11-04.md)
+- [예제 자료 안내](docs/migration-tms320f28xevmv2-2026-11-04.md)
 - [파일 목록과 SHA-256](docs/tms320f28xevmv2-manifest.json)
 
 기본·활용예제는 [c2000_example](https://github.com/c2000mcu-dev/c2000_example), SMC300 예제는 [smcexam](https://github.com/c2000mcu-dev/smcexam)에 보관합니다.

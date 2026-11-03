@@ -1,8 +1,8 @@
 # [F2838x / CPU1] Micro SD 메모리 카드 제어 예제 2 (RW Test / SD_Card)
 
-[원본 게시물](https://www.tms320f28x.co.kr/board/view.php?bdId=tms320f28xevmv2&sno=73) · TMS320F28X 개발보드 V2 예제 52번 · 이전일 2026-11-04
+[관련 게시물](https://www.tms320f28x.co.kr/board/view.php?bdId=tms320f28xevmv2&sno=73) · TMS320F28X 개발보드 V2 예제 52번
 
-SFTP 원본 파일을 수정 없이 보관했습니다. 설치 프로그램은 실행하지 않았습니다. 사용 조건은 원본 배포 자료를 따릅니다.
+사용 조건은 배포 자료에 포함된 내용을 따릅니다.
 
 | 파일 | bytes | SHA-256 |
 | --- | ---: | --- |
