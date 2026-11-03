@@ -1,0 +1,3096 @@
+{
+  "board": "tms320f28xevmv2",
+  "date": "2026-11-04",
+  "scope": {
+    "from": "2020-10-01",
+    "through": "2026-01-20",
+    "inclusive": true
+  },
+  "posts": [
+    {
+      "number": 0,
+      "sno": 21,
+      "date": "2021-05-17",
+      "title": "[공지] TMS320F28X 개발보드 V2용 예제 업데이트 관련",
+      "reviewOnly": true,
+      "directory": "tms320f28xevmv2/0000-post-21",
+      "commit": "05bfd6f8c4a96bc8c9bcee713682706200a48cf1",
+      "files": []
+    },
+    {
+      "number": 1,
+      "sno": 1,
+      "date": "2021-05-03",
+      "title": "[F2837xD / CPU1] 3채널 PWM-to-Analog 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0001-post-1",
+      "commit": "1da48c24b44cc6296da3c3e819233a9a1ba91c2a",
+      "files": [
+        {
+          "filename": "3_PWM_to_Analog_3Ch_28377D.zip",
+          "bytes": 389620,
+          "sha256": "00f9721bda8ce289879574fecf36be960b29451500f9fd2370784ee97965dbe5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0001-post-1/3_PWM_to_Analog_3Ch_28377D.zip"
+        },
+        {
+          "filename": "ded0806b9f88620b69c3d5e069ea1cc1_125054.png",
+          "bytes": 485492,
+          "sha256": "107e1b0456d71edb46a9a6bff4d347a43e7472399a6ed6467bde6d968783165e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0001-post-1/ded0806b9f88620b69c3d5e069ea1cc1_125054.png"
+        },
+        {
+          "filename": "05bb22c838b645d4b496e35ac188f9dd_125253.png",
+          "bytes": 488943,
+          "sha256": "5465ea3b29ef43296f5006c097272581064b458e193b0a20830bfd0e468364a5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0001-post-1/05bb22c838b645d4b496e35ac188f9dd_125253.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_090741.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0001-post-1/3b31398d8ce86189c54215f11e231516_090741.png"
+        },
+        {
+          "filename": "4a944f806c159c8bd8c8c862a4795762_125135.png",
+          "bytes": 36549,
+          "sha256": "1d2af0f0b1671c406033d771ceac8c05287819536f6b70431d0fbbbcd452cbee",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0001-post-1/4a944f806c159c8bd8c8c862a4795762_125135.png"
+        },
+        {
+          "filename": "281fbe7a404ca168e2d12a8b4451d422_125305.png",
+          "bytes": 67459,
+          "sha256": "26ee3cfa9df5f895ca7c62265de5490de24590cc6f9495289ebfe21c49f29265",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0001-post-1/281fbe7a404ca168e2d12a8b4451d422_125305.png"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "sno": 2,
+      "date": "2021-05-03",
+      "title": "[F2837xD / CPU1] 피에조 부저(Piezo Buzzer)를 이용한 음계 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0002-post-2",
+      "commit": "a6f254d88870d868c6edf30f238b43d876947916",
+      "files": [
+        {
+          "filename": "4_Buzzer_4-Octave_Scales_28377D.zip",
+          "bytes": 389699,
+          "sha256": "fa208f4de7a395cadb2c9c6d014e8aa633d58bc5f3d5b8aef2ace66a40cb1337",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0002-post-2/4_Buzzer_4-Octave_Scales_28377D.zip"
+        },
+        {
+          "filename": "501e0a3be6eee8a3f3114d589008f8f0_140833.png",
+          "bytes": 493986,
+          "sha256": "f4c6354b00038a0de425f3950d7f6ab88194a3b479f5c48efd62d63b3a4a064c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0002-post-2/501e0a3be6eee8a3f3114d589008f8f0_140833.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_091412.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0002-post-2/3b31398d8ce86189c54215f11e231516_091412.png"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "sno": 3,
+      "date": "2021-05-04",
+      "title": "[F2837xD / CPU1] 피에조 부저(Piezo Buzzer) 소리 ADC 확인 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0003-post-3",
+      "commit": "d89fafec80f4ae677fa355d9420c4112ffc77951",
+      "files": [
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_28377D.zip",
+          "bytes": 390997,
+          "sha256": "86138e958bdfdf27314f84885bbbea9f96232714dc857aab949bb1b84f5db7cb",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0003-post-3/4_Buzzer_ResonantFreq_and_MIC_28377D.zip"
+        },
+        {
+          "filename": "d1b3e1438ea74507c852544b5aa9a2b2_110412.png",
+          "bytes": 494504,
+          "sha256": "08dddf78e78ee8a1064c5499a9b7097f4d7ca8dce3a5ed60940c14bfa6fdbb1f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0003-post-3/d1b3e1438ea74507c852544b5aa9a2b2_110412.png"
+        },
+        {
+          "filename": "339763ef121147aa4ae6048db853a9d3_110424.png",
+          "bytes": 132928,
+          "sha256": "decc3645020fc2a46c33fb2fb0c738ac653253297916a2d32dbc95440f4fcc84",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0003-post-3/339763ef121147aa4ae6048db853a9d3_110424.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_142201.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0003-post-3/3b31398d8ce86189c54215f11e231516_142201.png"
+        },
+        {
+          "filename": "2374704b6dadf9616290b4bc93ae11ed_110437.png",
+          "bytes": 18406,
+          "sha256": "fced5137203201ce948a461808b2e2305fe5599ad7bc9d078ff73510e52c7c48",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0003-post-3/2374704b6dadf9616290b4bc93ae11ed_110437.png"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "sno": 4,
+      "date": "2021-05-04",
+      "title": "[F2837xD / CPU1] PC 마우스 장치 에뮬레이션 예제 (USB Device Mouse)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0004-post-4",
+      "commit": "811b99ea9ba588571b4bbcf3037c6f35dc8dc8b5",
+      "files": [
+        {
+          "filename": "5_USB_Dev_Mouse_28377D.zip",
+          "bytes": 1505989,
+          "sha256": "3ae5cb6e2605dc400a86eceb20ac9586ba8d4807612bd04d24773969cfaf5f02",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0004-post-4/5_USB_Dev_Mouse_28377D.zip"
+        },
+        {
+          "filename": "e75e4f38c3c1c34ac6a2ad5f72ccf096_145640.png",
+          "bytes": 564761,
+          "sha256": "916df60524082b70fd4f48d954555dbb674b3bb44df9b1680d19df6300408791",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0004-post-4/e75e4f38c3c1c34ac6a2ad5f72ccf096_145640.png"
+        },
+        {
+          "filename": "0bd0744547e2e4c3ae13ec37bf05ba18_145652.png",
+          "bytes": 551972,
+          "sha256": "0242e4b61de1abc5edac8c33b71d7eca56c0007f80f92fd8174f48f41297721f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0004-post-4/0bd0744547e2e4c3ae13ec37bf05ba18_145652.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_142636.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0004-post-4/3b31398d8ce86189c54215f11e231516_142636.png"
+        },
+        {
+          "filename": "61b44e6642f09f6eece7c25031d9a30e_145726.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0004-post-4/61b44e6642f09f6eece7c25031d9a30e_145726.png"
+        },
+        {
+          "filename": "fa643109949a15ccdfcfed3d148591ea_145911.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0004-post-4/fa643109949a15ccdfcfed3d148591ea_145911.png"
+        },
+        {
+          "filename": "f162ca5f76880b7e9e5df18c3061dc8a_151618.png",
+          "bytes": 45679,
+          "sha256": "4a206bfcb1958101015f1adca29ce83029fc989fbdd6fc6e664e37cb0fc38b55",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0004-post-4/f162ca5f76880b7e9e5df18c3061dc8a_151618.png"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "sno": 5,
+      "date": "2021-05-04",
+      "title": "[F2837xD / CPU1] 28X 칩과 USB 마우스간 연결 예제 (USB Host Mouse)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0005-post-5",
+      "commit": "20ec31079e5d6602586dc07a6867aedc50f9dcb5",
+      "files": [
+        {
+          "filename": "5_USB_Host_Mouse_28377D.zip",
+          "bytes": 1503524,
+          "sha256": "d4ca1bceb7265fd1599fe069a84c06f5a3888392ea9aaee7967bb7d79597e19c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0005-post-5/5_USB_Host_Mouse_28377D.zip"
+        },
+        {
+          "filename": "a1fe270cc99d3111c699b75b9c888408_173756.png",
+          "bytes": 602627,
+          "sha256": "0e699224c797be423bc7b26f27f129c30ea2180952eb27077ff6201a009ab94b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0005-post-5/a1fe270cc99d3111c699b75b9c888408_173756.png"
+        },
+        {
+          "filename": "131de9c1463125f0d7109315c1bb48e1_173819.png",
+          "bytes": 498700,
+          "sha256": "6bf9f7b30201cbf561cded48e1517d99afe4a07f79a0d6e9d53cd3678a0a3be6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0005-post-5/131de9c1463125f0d7109315c1bb48e1_173819.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_143332.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0005-post-5/3b31398d8ce86189c54215f11e231516_143332.png"
+        },
+        {
+          "filename": "61b44e6642f09f6eece7c25031d9a30e_173845.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0005-post-5/61b44e6642f09f6eece7c25031d9a30e_173845.png"
+        },
+        {
+          "filename": "fa643109949a15ccdfcfed3d148591ea_173900.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0005-post-5/fa643109949a15ccdfcfed3d148591ea_173900.png"
+        },
+        {
+          "filename": "bec53991c32a3fec8efe106f412456b7_173919.png",
+          "bytes": 12578,
+          "sha256": "28faaabba9048edbce4413956fcb870af831a55c3d5d701e33808ed9f1610086",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0005-post-5/bec53991c32a3fec8efe106f412456b7_173919.png"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "sno": 6,
+      "date": "2021-05-06",
+      "title": "[F2837xD / CPU1] USB 메모리 제어(RW) 예제 (USB_Host_MSC)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0006-post-6",
+      "commit": "bd93f5e4cff7ba106ebf792dd29dcfd9e038ba80",
+      "files": [
+        {
+          "filename": "5_USB_Host_MSC_28377D.zip",
+          "bytes": 1596099,
+          "sha256": "9b2d9f267854f18d551c214b0b5cefe27265c7c5d3145053ce6042003c5a85f2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0006-post-6/5_USB_Host_MSC_28377D.zip"
+        },
+        {
+          "filename": "56ad2c25c64b322e63fbd8a536d1a382_160604.png",
+          "bytes": 596154,
+          "sha256": "677d5e319c7c23aa61ae2005421b7c54f7bdc109ba9ce30010b0ea129684459e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0006-post-6/56ad2c25c64b322e63fbd8a536d1a382_160604.png"
+        },
+        {
+          "filename": "9169b134524026d67f2e197e4c30e9f0_160620.png",
+          "bytes": 498700,
+          "sha256": "6bf9f7b30201cbf561cded48e1517d99afe4a07f79a0d6e9d53cd3678a0a3be6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0006-post-6/9169b134524026d67f2e197e4c30e9f0_160620.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_160013.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0006-post-6/3b31398d8ce86189c54215f11e231516_160013.png"
+        },
+        {
+          "filename": "61b44e6642f09f6eece7c25031d9a30e_160649.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0006-post-6/61b44e6642f09f6eece7c25031d9a30e_160649.png"
+        },
+        {
+          "filename": "fa643109949a15ccdfcfed3d148591ea_160711.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0006-post-6/fa643109949a15ccdfcfed3d148591ea_160711.png"
+        },
+        {
+          "filename": "00212c4f1e295e6fdbaba20b8419d88d_160746.png",
+          "bytes": 47438,
+          "sha256": "0009f1506b43ddeb48237cb29856542735d6b9b3e1db9dfec04ef93851839d62",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0006-post-6/00212c4f1e295e6fdbaba20b8419d88d_160746.png"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "sno": 7,
+      "date": "2021-05-07",
+      "title": "[F2837xD / CPU1] 개발보드 택트(Tactile) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0007-post-7",
+      "commit": "36f254c63da06665680daa1f006e359f270667f2",
+      "files": [
+        {
+          "filename": "6_GP_Tactile_Switch_4Ch_28377D.zip",
+          "bytes": 386572,
+          "sha256": "8f4fdb0a344d0a14416de446ebec5c177558855c5e9726682ea4422343f9aadc",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0007-post-7/6_GP_Tactile_Switch_4Ch_28377D.zip"
+        },
+        {
+          "filename": "1c8ba05a6c29fede50b9424cc3a749e6_103920.png",
+          "bytes": 485912,
+          "sha256": "5891685a796eb8e19c990ebf535cf045bc1635d23023fabc8edb70b0ec1491bd",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0007-post-7/1c8ba05a6c29fede50b9424cc3a749e6_103920.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_103528.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0007-post-7/3b31398d8ce86189c54215f11e231516_103528.png"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "sno": 8,
+      "date": "2021-05-07",
+      "title": "[F2837xD / CPU1] 개발보드 토글(Toggle) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0008-post-8",
+      "commit": "0e47cb95f5d82250cfe1f01ee2f7846ca2365ec5",
+      "files": [
+        {
+          "filename": "7_GP_Toggle_Switch_8Ch_28377D.zip",
+          "bytes": 385688,
+          "sha256": "c3db7dda44b5a794f3fc23765e1b98d3071b09c88945e9760dad200c093ba3c8",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0008-post-8/7_GP_Toggle_Switch_8Ch_28377D.zip"
+        },
+        {
+          "filename": "f61ac00a81cbf3c7820dec63018d40d4_142519.png",
+          "bytes": 490989,
+          "sha256": "a3d7ee43099796dfd720dd54108f13c8a6ba2cc1238e24e16eed762d83b459bf",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0008-post-8/f61ac00a81cbf3c7820dec63018d40d4_142519.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_142305.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0008-post-8/3b31398d8ce86189c54215f11e231516_142305.png"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "sno": 9,
+      "date": "2021-05-11",
+      "title": "[F2837xD / CPU1] 개발보드 LED 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0009-post-9",
+      "commit": "1caf2d8047159eeb43a0666aa197da98f60f496b",
+      "files": [
+        {
+          "filename": "8_GP_LED_16Ch_28377D.zip",
+          "bytes": 385510,
+          "sha256": "5ab91b47823efa39cffd59f16350f01cb55fd0dfdc1257be72f5c0a8f7d4d47d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0009-post-9/8_GP_LED_16Ch_28377D.zip"
+        },
+        {
+          "filename": "58692c0b1b41148962bee882b03ac031_091348.png",
+          "bytes": 488094,
+          "sha256": "4c83c8264443dedf65da3635b6c7d5b0ad1cb41eded6313d369fbb42bef107ca",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0009-post-9/58692c0b1b41148962bee882b03ac031_091348.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_090612.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0009-post-9/3b31398d8ce86189c54215f11e231516_090612.png"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "sno": 10,
+      "date": "2021-05-11",
+      "title": "[F2837xD / CPU1] 개발보드 2채널 가변전압 출력 회로 테스트 (Potentiometer ADC)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0010-post-10",
+      "commit": "ca80518be9e08985b5296bd479ebc38e1e1ca836",
+      "files": [
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_28377D.zip",
+          "bytes": 390077,
+          "sha256": "bbfd9852bd0d57391d0e8be622dd4f896d601195fd4605db3259c9de76dadfce",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0010-post-10/9_Potentiometer_2Ch_ADC_28377D.zip"
+        },
+        {
+          "filename": "9c659c40ccda211df29d521fe9342ba0_102300.png",
+          "bytes": 483009,
+          "sha256": "a922e500acc9a5c8b655e6b456cfbaa46abed59c76b839020d9b34caf65923d6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0010-post-10/9c659c40ccda211df29d521fe9342ba0_102300.png"
+        },
+        {
+          "filename": "03c92a5ed275339d9bb251ffc31d8963_102316.png",
+          "bytes": 132205,
+          "sha256": "e83c0b354cbe007c684fac71a92ef6afbbac0349dd23d01409abea2b71444753",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0010-post-10/03c92a5ed275339d9bb251ffc31d8963_102316.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_102132.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0010-post-10/3b31398d8ce86189c54215f11e231516_102132.png"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "sno": 11,
+      "date": "2021-05-11",
+      "title": "[F2837xD / CPU1] Micro SD 메모리 카드 제어(RW) 예제 (SD_Card)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0011-post-11",
+      "commit": "5f1884c054872ac1007d1d0c54b31d681298d231",
+      "files": [
+        {
+          "filename": "10_SD_Card_28377D.zip",
+          "bytes": 723976,
+          "sha256": "eee2c166cbcf47077755b8ca4ef2a41b618bf90570d6792cdb07372299e4fcb4",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0011-post-11/10_SD_Card_28377D.zip"
+        },
+        {
+          "filename": "94403df286aed338c47c2fc2782debe6_131519.png",
+          "bytes": 575030,
+          "sha256": "fae856b864907a4f143e40a1ceae57c70f598964ee6fd0d58281c5ae28780373",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0011-post-11/94403df286aed338c47c2fc2782debe6_131519.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_130747.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0011-post-11/3b31398d8ce86189c54215f11e231516_130747.png"
+        },
+        {
+          "filename": "61b44e6642f09f6eece7c25031d9a30e_131634.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0011-post-11/61b44e6642f09f6eece7c25031d9a30e_131634.png"
+        },
+        {
+          "filename": "fa643109949a15ccdfcfed3d148591ea_131650.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0011-post-11/fa643109949a15ccdfcfed3d148591ea_131650.png"
+        },
+        {
+          "filename": "6cd5394401c4972094f4cc55f2c96d33_131709.png",
+          "bytes": 65600,
+          "sha256": "be42821a21a3798dd358bbf8d36a518e8273e0bffcdf44bb48df61dd319581b0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0011-post-11/6cd5394401c4972094f4cc55f2c96d33_131709.png"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "sno": 12,
+      "date": "2021-05-11",
+      "title": "[F2837xD / CPU1] 개발보드 SCI(RS232)-to-USB 회로 테스트 예제 (Echo-back Test)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0012-post-12",
+      "commit": "d80036ae690830125aab576dc8ed7bd7ddf95225",
+      "files": [
+        {
+          "filename": "11_Serial_to_USB_28377D.zip",
+          "bytes": 387778,
+          "sha256": "3b9b8de225805d7b342cb0155c5b9acf0d2f8dcfc693104895d91e9e2ecb5d05",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0012-post-12/11_Serial_to_USB_28377D.zip"
+        },
+        {
+          "filename": "076c1ea63ba0d8f9654c394fb0933bb4_145849.png",
+          "bytes": 532383,
+          "sha256": "2140be9ae2728eb36dab6218a1ce87de1be46d39d77e487d97ade4d72bb9fd61",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0012-post-12/076c1ea63ba0d8f9654c394fb0933bb4_145849.png"
+        },
+        {
+          "filename": "56b8bb15939ce634707b75e26ce0a52c_145906.png",
+          "bytes": 123054,
+          "sha256": "e33828939abdb429b56a6b97a43fee6dda083b1f03d5093f861d6bb249a60b77",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0012-post-12/56b8bb15939ce634707b75e26ce0a52c_145906.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_145641.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0012-post-12/3b31398d8ce86189c54215f11e231516_145641.png"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "sno": 13,
+      "date": "2021-05-11",
+      "title": "[F2837xD / CPU1] 개발보드 Serial(SPI) EEPROM R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0013-post-13",
+      "commit": "abc93b3f912e96d509dca8510fa794ce963c1347",
+      "files": [
+        {
+          "filename": "Datasheet_M95M04_DRMN6TP.pdf",
+          "bytes": 857569,
+          "sha256": "cc6b6f6cb0b14a6e417af17f5a5e04ae1660bc73e899bba5bc249af405b830c3",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0013-post-13/Datasheet_M95M04_DRMN6TP.pdf"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_28377D_F1.zip",
+          "bytes": 781242,
+          "sha256": "6e358297497ff14c01bb2a0e96493bf901f8954af47fa2b0bfaeb658f42f43ca",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0013-post-13/12_Serial_EEPROM_M95M04_28377D_F1.zip"
+        },
+        {
+          "filename": "d99aff310357327dfff66a0c1687a124_154959.png",
+          "bytes": 739274,
+          "sha256": "840dead96eb6bb0445cac146b597c3eb0818688b579a701ee94537bb6c7752f0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0013-post-13/d99aff310357327dfff66a0c1687a124_154959.png"
+        },
+        {
+          "filename": "67c2b2c9aea0f99cda9d1b839bb2b537_154949.png",
+          "bytes": 132849,
+          "sha256": "4b7f722de9602a3ff0083cd2711965dcdad71869d8a3857c9d671c3d3df38ce6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0013-post-13/67c2b2c9aea0f99cda9d1b839bb2b537_154949.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_152455.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0013-post-13/3b31398d8ce86189c54215f11e231516_152455.png"
+        },
+        {
+          "filename": "a83b786f0c229ce35cee736f76b77b74_155004.png",
+          "bytes": 21406,
+          "sha256": "7baf733d6371b94fd6190b0b8cef19d08d94a1db394cccbb9135a42afca7b490",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0013-post-13/a83b786f0c229ce35cee736f76b77b74_155004.png"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "sno": 14,
+      "date": "2021-05-11",
+      "title": "[F2837xD / CPU1] 개발보드 Serial(SPI) FLASH R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0014-post-14",
+      "commit": "a670939e9a7226391421aa694ed7201a4806c4f7",
+      "files": [
+        {
+          "filename": "Datasheet_M25P40_VMN6TPB.pdf",
+          "bytes": 1188095,
+          "sha256": "04d1f62acf4586a824cdba5e28d1bcef99cc5e6865a8b697e8ec7e6fb4e5e655",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0014-post-14/Datasheet_M25P40_VMN6TPB.pdf"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_28377D.zip",
+          "bytes": 828171,
+          "sha256": "350429e5aa7d2e4eab70f6f22990f7820e49c8648f64f9a4b9c16d20e02141be",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0014-post-14/12_Serial_FLASH_M25P40_28377D.zip"
+        },
+        {
+          "filename": "8428b4867e956cf84874c46b44b0ca6f_160108.png",
+          "bytes": 739191,
+          "sha256": "69eb1f9c2275bc672ccc10acbd1d747ac14007e26ff16da6ad5b424a08ff810b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0014-post-14/8428b4867e956cf84874c46b44b0ca6f_160108.png"
+        },
+        {
+          "filename": "d60dbd1c6e7cb8b328c7a0c53fa89e7b_164336.png",
+          "bytes": 127091,
+          "sha256": "28f7b6802a1a7db0f389d9dabb7d9918b4f000a2ad07bdd9a578b5835c2f52e9",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0014-post-14/d60dbd1c6e7cb8b328c7a0c53fa89e7b_164336.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_163534.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0014-post-14/3b31398d8ce86189c54215f11e231516_163534.png"
+        },
+        {
+          "filename": "e35f18780b737555d76bb575e5fcb53a_164401.png",
+          "bytes": 24788,
+          "sha256": "ac3b8a30f18ca91b80a91364b148d63423dd8d618dcac88f1c525905ed936df2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0014-post-14/e35f18780b737555d76bb575e5fcb53a_164401.png"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "sno": 15,
+      "date": "2021-05-12",
+      "title": "[F2837xD / CPU1] 개발보드 7-세그먼트 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0015-post-15",
+      "commit": "675f9f30a105c36ee86da804f27b9e8f8a556d8f",
+      "files": [
+        {
+          "filename": "13_7-Segments_28377D.zip",
+          "bytes": 1470654,
+          "sha256": "3bd32303d79cb24581796c03529976f0fc37f30ae7a51bc93ca00dda4e48c35c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0015-post-15/13_7-Segments_28377D.zip"
+        },
+        {
+          "filename": "3eef67afee7c8adf3643b7917ca269b8_135406.png",
+          "bytes": 500139,
+          "sha256": "4e3bba8e063012a0bb139c821a11922db1eb36b075581c0717c08da447eaf168",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0015-post-15/3eef67afee7c8adf3643b7917ca269b8_135406.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_134637.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0015-post-15/3b31398d8ce86189c54215f11e231516_134637.png"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "sno": 16,
+      "date": "2021-05-12",
+      "title": "[F2837xD / CPU1] 개발보드 로터리 엔코더(24P/R) 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0016-post-16",
+      "commit": "da4c7c10394f8064950af64479d62b82e28cf138",
+      "files": [
+        {
+          "filename": "14_24PR_Encoder_28377D.zip",
+          "bytes": 388256,
+          "sha256": "f635c4dfc6c6e67f64ebc1fa2d1e255aae1cb1d4121703c77f3c197b7d9f8a18",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0016-post-16/14_24PR_Encoder_28377D.zip"
+        },
+        {
+          "filename": "b3a3d20ffd85a7c9bc7f3a6e6e1568eb_145937.png",
+          "bytes": 511930,
+          "sha256": "94c33617f901fa0db167c0046715ac65ed009c6b8fa9d1a86244b0986a8f650f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0016-post-16/b3a3d20ffd85a7c9bc7f3a6e6e1568eb_145937.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_145652.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0016-post-16/3b31398d8ce86189c54215f11e231516_145652.png"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "sno": 17,
+      "date": "2021-05-12",
+      "title": "[F2837xD / CPU1] CAN 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0017-post-17",
+      "commit": "b082dbdb5a7706137706c8d1d45bb36fc76826a9",
+      "files": [
+        {
+          "filename": "15_CAN_External_Loopback_28377D.zip",
+          "bytes": 494593,
+          "sha256": "849ca462de12ae0d621711185ec52a66f12f4acf68a60bb9fc8d24cb1670014e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0017-post-17/15_CAN_External_Loopback_28377D.zip"
+        },
+        {
+          "filename": "b6ea524c828085e9a16e89665a4f72b0_155828.png",
+          "bytes": 490058,
+          "sha256": "b2f4318f32ec42e7c633587543a975b7a094a34e5296b5816d4494add2b55d35",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0017-post-17/b6ea524c828085e9a16e89665a4f72b0_155828.png"
+        },
+        {
+          "filename": "0100fc1f3e8064b2f478288a1df4683e_154023.png",
+          "bytes": 496657,
+          "sha256": "ebd79443fcb432786ce274fea0777883067ebb0fec4a0545b091a334554cc10e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0017-post-17/0100fc1f3e8064b2f478288a1df4683e_154023.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_155657.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0017-post-17/3b31398d8ce86189c54215f11e231516_155657.png"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "sno": 18,
+      "date": "2021-05-14",
+      "title": "[F2837xD / CPU1] RS485 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0018-post-18",
+      "commit": "6660b0c50ff68b80f9ce2d367c3fe9a11873a5fa",
+      "files": [
+        {
+          "filename": "16_RS485_External_Loopback_28377D.zip",
+          "bytes": 387177,
+          "sha256": "b1cfc309bd1522f2d2dfc2b8acfc73b2849de134f15961cd403b69402a04da27",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0018-post-18/16_RS485_External_Loopback_28377D.zip"
+        },
+        {
+          "filename": "6ad169b3fc788a6a5baa608ebca3e96e_154312.png",
+          "bytes": 499398,
+          "sha256": "eca14196c5355ecd579e3cf206f93a3df8b118cfcab5d660c51a460713f3a535",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0018-post-18/6ad169b3fc788a6a5baa608ebca3e96e_154312.png"
+        },
+        {
+          "filename": "c00558397f6d0ad6380a266ed54bf1d6_154328.png",
+          "bytes": 521250,
+          "sha256": "3465a27e00879e13d876b5962c98511ad1ae365aceba7398c6adf713ada8ba9e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0018-post-18/c00558397f6d0ad6380a266ed54bf1d6_154328.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_153650.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0018-post-18/3b31398d8ce86189c54215f11e231516_153650.png"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "sno": 19,
+      "date": "2021-05-14",
+      "title": "[F2837xD / CPU1] RS232 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0019-post-19",
+      "commit": "b3a8986b4daaaf3286bee79358ca7b4b2c02a07b",
+      "files": [
+        {
+          "filename": "17_RS232_External_Loopback_28377D.zip",
+          "bytes": 386901,
+          "sha256": "f5467075846c1409220fc5c56d26695be5198e6bbc04fab6f82e130371ac47a5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0019-post-19/17_RS232_External_Loopback_28377D.zip"
+        },
+        {
+          "filename": "18bfe761efe6d784ce5292a988f24660_161549.png",
+          "bytes": 487186,
+          "sha256": "a8f3791f27b878d0591b3e2776d5099dc2abbba3f024d372b77e50d9ebf0edaa",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0019-post-19/18bfe761efe6d784ce5292a988f24660_161549.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_161424.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0019-post-19/3b31398d8ce86189c54215f11e231516_161424.png"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "sno": 20,
+      "date": "2021-05-17",
+      "title": "[F2837xD / CPU1] SPI 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0020-post-20",
+      "commit": "7a68251c2cb0a52e0d195038e1989c77ab5bd323",
+      "files": [
+        {
+          "filename": "20_SPI_External_Loopback_28377D.zip",
+          "bytes": 964535,
+          "sha256": "7c01a8d21d62ead7333620abe635c2f8ce52186b3494339180036bcabcb59d31",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0020-post-20/20_SPI_External_Loopback_28377D.zip"
+        },
+        {
+          "filename": "487e7ab52262a39f0563ff06b5631642_140501.png",
+          "bytes": 504576,
+          "sha256": "46d3650ad3b19f9abe84b8d0d823e1efb8b377eacce8e9729969d14d5d35de40",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0020-post-20/487e7ab52262a39f0563ff06b5631642_140501.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_135858.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0020-post-20/3b31398d8ce86189c54215f11e231516_135858.png"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "sno": 22,
+      "date": "2021-05-17",
+      "title": "[F2837xD / CPU1] I2C 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0022-post-22",
+      "commit": "4a61911bca85954bf790e193816ae109107c512e",
+      "files": [
+        {
+          "filename": "21_I2C_External_Loopback_28377D.zip",
+          "bytes": 387145,
+          "sha256": "2046c38a4e02f90eb194fc059eea4b44525d92a5c4b6e472b65da1e5c4ba99db",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0022-post-22/21_I2C_External_Loopback_28377D.zip"
+        },
+        {
+          "filename": "da3e34f3ac25b0435a5f10cd3cafc3ad_143814.png",
+          "bytes": 488003,
+          "sha256": "d9ca733b1dddb0c55679ea52c51e2f8a5466dfa3bd00f4ae1089343340987b8a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0022-post-22/da3e34f3ac25b0435a5f10cd3cafc3ad_143814.png"
+        },
+        {
+          "filename": "3b31398d8ce86189c54215f11e231516_142323.png",
+          "bytes": 10392,
+          "sha256": "3e488aae5f782cec4cf14a42956fc8141f4852c12473c76cda63b82862d17d83",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0022-post-22/3b31398d8ce86189c54215f11e231516_142323.png"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "sno": 44,
+      "date": "2022-06-27",
+      "title": "[F28335] 3채널 PWM-to-Analog 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0023-post-44",
+      "commit": "5c887e1ef84b1faa4e5574037dd56adb70dff041",
+      "files": [
+        {
+          "filename": "3_PWM_to_Analog_3Ch_28335.zip",
+          "bytes": 295299,
+          "sha256": "56aff8146ef481335596e29c3495d8bb6af432db27dd49f0c3c541876b9c1efd",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0023-post-44/3_PWM_to_Analog_3Ch_28335.zip"
+        },
+        {
+          "filename": "29567395bb661ed89ca822b65b9ad627_144228.png",
+          "bytes": 900250,
+          "sha256": "a6062fc5d8759402247202691faf1330135abecf019ca9e129a5732bb022e794",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0023-post-44/29567395bb661ed89ca822b65b9ad627_144228.png"
+        },
+        {
+          "filename": "261386d8b4ac19e769cfafa1e8cd2384_144248.png",
+          "bytes": 906012,
+          "sha256": "9c8eac95462a2885a21a4ef03b6fc392ab3958e7278be125843699f4087e3624",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0023-post-44/261386d8b4ac19e769cfafa1e8cd2384_144248.png"
+        },
+        {
+          "filename": "Workspace_28335_142746.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0023-post-44/Workspace_28335_142746.png"
+        },
+        {
+          "filename": "15c6e9f5a6f16becf7f6395c4b0216ae_142955.png",
+          "bytes": 36549,
+          "sha256": "1d2af0f0b1671c406033d771ceac8c05287819536f6b70431d0fbbbcd452cbee",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0023-post-44/15c6e9f5a6f16becf7f6395c4b0216ae_142955.png"
+        },
+        {
+          "filename": "2b763accf9ff586d6cddbece01b4f4a2_143035.png",
+          "bytes": 67459,
+          "sha256": "26ee3cfa9df5f895ca7c62265de5490de24590cc6f9495289ebfe21c49f29265",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0023-post-44/2b763accf9ff586d6cddbece01b4f4a2_143035.png"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "sno": 45,
+      "date": "2022-06-27",
+      "title": "[F28335] 피에조 부저(Piezo Buzzer)를 이용한 음계 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0024-post-45",
+      "commit": "b15b56fb3bc59bed52cbc3cd34c89cc29c16e94e",
+      "files": [
+        {
+          "filename": "4_Buzzer_4-Octave_Scales_28335.zip",
+          "bytes": 295040,
+          "sha256": "a00c82c2ce670d23615a5cefaa022609c9c71b321516a199b58dfdfb6fa612dd",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0024-post-45/4_Buzzer_4-Octave_Scales_28335.zip"
+        },
+        {
+          "filename": "3cce542e11c694a1a902d4cc76d85fb6_154223.png",
+          "bytes": 915127,
+          "sha256": "62803de7f3370ade8cf4028a673dc720e902daa2cdb8535fbe0872f5286df3b8",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0024-post-45/3cce542e11c694a1a902d4cc76d85fb6_154223.png"
+        },
+        {
+          "filename": "Workspace_28335_154054.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0024-post-45/Workspace_28335_154054.png"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "sno": 46,
+      "date": "2022-06-27",
+      "title": "[F28335] 피에조 부저(Piezo Buzzer) 소리 ADC 확인 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0025-post-46",
+      "commit": "aa9d9c90a55b3a902e4181968ca34b6491fa0115",
+      "files": [
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_28335.zip",
+          "bytes": 296167,
+          "sha256": "600247e9793f0eac92881a53a7e875684ae59fe6d0547ca9e24b387848ccc220",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0025-post-46/4_Buzzer_ResonantFreq_and_MIC_28335.zip"
+        },
+        {
+          "filename": "3cff8be23fe5ee7b8984df5d9b12c6d2_160540.png",
+          "bytes": 907198,
+          "sha256": "eece944ed0e10e87377f0376b1b7d30f4a999f248152773dba5f130d24de3629",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0025-post-46/3cff8be23fe5ee7b8984df5d9b12c6d2_160540.png"
+        },
+        {
+          "filename": "8578f0fff83addbfcefcc38804dd7913_160552.png",
+          "bytes": 113111,
+          "sha256": "40231ebd9601c07c57541e2debf37627db157b023df675dda21e2a4188055ebf",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0025-post-46/8578f0fff83addbfcefcc38804dd7913_160552.png"
+        },
+        {
+          "filename": "Workspace_28335_160409.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0025-post-46/Workspace_28335_160409.png"
+        },
+        {
+          "filename": "409bd30cd040d342b86874e1403a6d03_160605.png",
+          "bytes": 15619,
+          "sha256": "ffe76041e60042182fc0c5718883e632dc0a322d9f2746d8e614cb715afa6d04",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0025-post-46/409bd30cd040d342b86874e1403a6d03_160605.png"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "sno": 47,
+      "date": "2022-06-27",
+      "title": "[F28335] 개발보드 택트(Tactile) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0026-post-47",
+      "commit": "bad6e413b2915d741015a89f65f999d0a6a14715",
+      "files": [
+        {
+          "filename": "6_GP_Tactile_Switch_4Ch_28335.zip",
+          "bytes": 292400,
+          "sha256": "69fe95f9d55c50ec099f3ce11ad9a6e3bb74bbae08a1b6377a6f35acaf79da33",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0026-post-47/6_GP_Tactile_Switch_4Ch_28335.zip"
+        },
+        {
+          "filename": "9a8aaa56afec6a72c95928da6fb07588_163556.png",
+          "bytes": 900528,
+          "sha256": "cd17bf7f9814a94485247615e0a0bf10f4779516e2554afd7e06cb0c7f150bd7",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0026-post-47/9a8aaa56afec6a72c95928da6fb07588_163556.png"
+        },
+        {
+          "filename": "Workspace_28335_163437.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0026-post-47/Workspace_28335_163437.png"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "sno": 48,
+      "date": "2022-06-28",
+      "title": "[F28335] 개발보드 토글(Toggle) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0027-post-48",
+      "commit": "0eb8e59a99234592d93339300cef01bba2280e78",
+      "files": [
+        {
+          "filename": "7_GP_Toggle_Switch_8Ch_28335.zip",
+          "bytes": 291665,
+          "sha256": "bf4ef8d19f56266a3e411190a971e2f4f8eb9c3fe5b0486b1a5f40dfa388dc3f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0027-post-48/7_GP_Toggle_Switch_8Ch_28335.zip"
+        },
+        {
+          "filename": "b017f825e4a735fb1b9b6356cf45a054_101902.png",
+          "bytes": 904950,
+          "sha256": "413f2b2a4f9b23646bfa8dcc9947013df98f5557d19e8499a6d92e1a208c6a34",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0027-post-48/b017f825e4a735fb1b9b6356cf45a054_101902.png"
+        },
+        {
+          "filename": "Workspace_28335_101727.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0027-post-48/Workspace_28335_101727.png"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "sno": 49,
+      "date": "2022-06-28",
+      "title": "[F28335] 개발보드 LED 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0028-post-49",
+      "commit": "3be23d2ee0aa5e57ad940e6ed7aa94624833f4b5",
+      "files": [
+        {
+          "filename": "8_GP_LED_16Ch_28335.zip",
+          "bytes": 291361,
+          "sha256": "dbc238fa091ec130f665359c4b75a6ce020c93d3929ce7eac2a3c642f0fc610d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0028-post-49/8_GP_LED_16Ch_28335.zip"
+        },
+        {
+          "filename": "edbeef93d7a47be26b899ac8177f892f_105456.png",
+          "bytes": 913880,
+          "sha256": "361d0cb5b7ec9935f83021deacd94186a68ca166efff010446a1201d7125736e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0028-post-49/edbeef93d7a47be26b899ac8177f892f_105456.png"
+        },
+        {
+          "filename": "Workspace_28335_105315.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0028-post-49/Workspace_28335_105315.png"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "sno": 50,
+      "date": "2022-06-28",
+      "title": "[F28335] 개발보드 2채널 가변전압 출력 회로 테스트 (Potentiometer ADC)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0029-post-50",
+      "commit": "a1b2bcb56eae07e47f0fa9689920cf5905c4ffd3",
+      "files": [
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_28335.zip",
+          "bytes": 295464,
+          "sha256": "947bf7a2f2c17b86d14743de90a8434e3dc67aea52a83148406aff4ab66a4450",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0029-post-50/9_Potentiometer_2Ch_ADC_28335.zip"
+        },
+        {
+          "filename": "1620ed6ffe5723fbd0c26abd8a43d20f_130652.png",
+          "bytes": 899825,
+          "sha256": "3a535ec3ae24d4df7f39046bbffaec143b08e4b47e5c51d861461439fcfcc019",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0029-post-50/1620ed6ffe5723fbd0c26abd8a43d20f_130652.png"
+        },
+        {
+          "filename": "7cd221a7ed5b0191b1f3212b4b417d31_130704.png",
+          "bytes": 104758,
+          "sha256": "24240fb5dd8eb63da0a050e468a98d7eccf050208a3007383efa5b1fa9c000e1",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0029-post-50/7cd221a7ed5b0191b1f3212b4b417d31_130704.png"
+        },
+        {
+          "filename": "Workspace_28335_130541.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0029-post-50/Workspace_28335_130541.png"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "sno": 51,
+      "date": "2022-06-28",
+      "title": "[F28335] Micro SD 메모리 카드 R/W 테스트 예제 (SPI_SD_Card)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0030-post-51",
+      "commit": "b227ff7b6786d8d2897d595cb341001f252a9594",
+      "files": [
+        {
+          "filename": "10_SPI_SD_Card_28335.zip",
+          "bytes": 295898,
+          "sha256": "0639f742390821ecda5ccb227eaf8926d9319488aa3a7e6a80caedfa7dbef2f9",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0030-post-51/10_SPI_SD_Card_28335.zip"
+        },
+        {
+          "filename": "c212ed13a4248773d5ff8d16e2aaeba3_143723.png",
+          "bytes": 850536,
+          "sha256": "0629246a0d75f10cadcd077df3082b23b5a9bbf9de8b03dfbfd974f1c647ed43",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0030-post-51/c212ed13a4248773d5ff8d16e2aaeba3_143723.png"
+        },
+        {
+          "filename": "5931758ef3e6e4eb39d17254a33794ce_143734.png",
+          "bytes": 186916,
+          "sha256": "6fd14618a49b1a516fa08332acd2b53a660f9fbf5cfe21369164e111ac63c5bf",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0030-post-51/5931758ef3e6e4eb39d17254a33794ce_143734.png"
+        },
+        {
+          "filename": "772cf6fdc0ae7e9786f72dc63a683bc1_143744.png",
+          "bytes": 159771,
+          "sha256": "3fd1af61534099ba999464d9a896722d7864f55cc854e901472e170124e60fcf",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0030-post-51/772cf6fdc0ae7e9786f72dc63a683bc1_143744.png"
+        },
+        {
+          "filename": "Workspace_28335_143307.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0030-post-51/Workspace_28335_143307.png"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "sno": 52,
+      "date": "2022-06-28",
+      "title": "[F28335] 개발보드 SCI(RS232)-to-USB 회로 테스트 예제 (Echo-back Test)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0031-post-52",
+      "commit": "f6dad62ecd8c493f78d3d0359208cba472e7e58f",
+      "files": [
+        {
+          "filename": "11_Serial_to_USB_28335.zip",
+          "bytes": 293676,
+          "sha256": "d42b208de37e021514181be257b98178bff12963543009cf0e8fb21a31c10081",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0031-post-52/11_Serial_to_USB_28335.zip"
+        },
+        {
+          "filename": "901c844a84d6cdb0bfcb6d8f9d685df7_154059.png",
+          "bytes": 770118,
+          "sha256": "d704d4f5df7034c89be4efbb42b7599b868970181a4b36fb9d13252ad84c3050",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0031-post-52/901c844a84d6cdb0bfcb6d8f9d685df7_154059.png"
+        },
+        {
+          "filename": "a3ec0e8877871ca6f991e78d5e65c9ae_152927.png",
+          "bytes": 109632,
+          "sha256": "c6ba85a0ff6e4842fc31b8ba48e1aeb918684668369b54cbddac51dd6285ddb5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0031-post-52/a3ec0e8877871ca6f991e78d5e65c9ae_152927.png"
+        },
+        {
+          "filename": "Workspace_28335_152728.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0031-post-52/Workspace_28335_152728.png"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "sno": 53,
+      "date": "2022-06-29",
+      "title": "[F28335] 개발보드 Serial(SPI) EEPROM R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0032-post-53",
+      "commit": "94244781ef713f7736e3393b9367f4e2ecf0859f",
+      "files": [
+        {
+          "filename": "12_Serial_EEPROM_M95M04_28335_F1.zip",
+          "bytes": 686936,
+          "sha256": "df14bc73df907ecac3c0e0d71fc67d92fcc849569f4d7fe3c0406824309abe5d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0032-post-53/12_Serial_EEPROM_M95M04_28335_F1.zip"
+        },
+        {
+          "filename": "c59b45290cbe939052e7b412189f0238_151941.png",
+          "bytes": 764017,
+          "sha256": "971e2d562d034e3a2c5f2c60613493cc8cee957593ec94db6c3e0f6d53da3d7d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0032-post-53/c59b45290cbe939052e7b412189f0238_151941.png"
+        },
+        {
+          "filename": "5c9ec5b34a978a4bcf58676ee73bfc66_151956.png",
+          "bytes": 107965,
+          "sha256": "dd55eba909bce8746d03194336de325d538e4fe59e9fff5519c21c89c11307f5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0032-post-53/5c9ec5b34a978a4bcf58676ee73bfc66_151956.png"
+        },
+        {
+          "filename": "Workspace_28335_151751.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0032-post-53/Workspace_28335_151751.png"
+        },
+        {
+          "filename": "9f42222e85c9c53e46fd045882d48958_152021.png",
+          "bytes": 23932,
+          "sha256": "5607edabd0a1f69bb7eeadc6dc5b5e6fd8b5a1bcde44e180061390e5e9cf0362",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0032-post-53/9f42222e85c9c53e46fd045882d48958_152021.png"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "sno": 54,
+      "date": "2022-06-29",
+      "title": "[F28335] 개발보드 Serial(SPI) FLASH R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0033-post-54",
+      "commit": "bc85ea6613e0e5ff399d29deef7d4ba929f4358c",
+      "files": [
+        {
+          "filename": "12_Serial_FLASH_M25P40_28335.zip",
+          "bytes": 733530,
+          "sha256": "f3f40832533acf73da06e069daf2806ceded4a657be5894b5c486cb134e9a686",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0033-post-54/12_Serial_FLASH_M25P40_28335.zip"
+        },
+        {
+          "filename": "92429144502d60bb492542c67540bdf6_161427.png",
+          "bytes": 763929,
+          "sha256": "9bd34c945d817324fc5319026a671c86a8f276e785e62df5eb9accec263337fd",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0033-post-54/92429144502d60bb492542c67540bdf6_161427.png"
+        },
+        {
+          "filename": "44ad9818f6f470e051b3cae8f74a7fd3_161442.png",
+          "bytes": 113041,
+          "sha256": "972957045fd56ff757c2bba804a3b52a3df849ac26a0e89172bd3abbd1c41b0e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0033-post-54/44ad9818f6f470e051b3cae8f74a7fd3_161442.png"
+        },
+        {
+          "filename": "Workspace_28335_161231.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0033-post-54/Workspace_28335_161231.png"
+        },
+        {
+          "filename": "e5342cdaa44e50eb362edc8772cece7b_161456.png",
+          "bytes": 24969,
+          "sha256": "cd10a19ab459a3461e3daf4a71ffa241ed60df4d9dade4d81a7ce1173ab04954",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0033-post-54/e5342cdaa44e50eb362edc8772cece7b_161456.png"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "sno": 55,
+      "date": "2022-06-29",
+      "title": "[F28335] 개발보드 7-세그먼트 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0034-post-55",
+      "commit": "661013984799ab85964514b79fe1089c0a9f2e2f",
+      "files": [
+        {
+          "filename": "13_7-Segments_28335.zip",
+          "bytes": 1380095,
+          "sha256": "cbe71fd451fd50c4bb811c0f790abd5823d767ae25d18e6fa48a657a5090e80f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0034-post-55/13_7-Segments_28335.zip"
+        },
+        {
+          "filename": "b5fcdb5c93667a462652dd9e088d2016_165302.png",
+          "bytes": 905560,
+          "sha256": "dc850bba4feca1c23dfa340ad8d1ad5fa3b66feca2e95e1b165092f000040106",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0034-post-55/b5fcdb5c93667a462652dd9e088d2016_165302.png"
+        },
+        {
+          "filename": "Workspace_28335_165204.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0034-post-55/Workspace_28335_165204.png"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "sno": 56,
+      "date": "2022-07-07",
+      "title": "[F28335] 개발보드 로터리 엔코더(24P/R) 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0035-post-56",
+      "commit": "b42f30a46985d0434a93ccd6c025badc666ad606",
+      "files": [
+        {
+          "filename": "14_24PR_Encoder_28335.zip",
+          "bytes": 296286,
+          "sha256": "69416ea404588476b416c30de836f2b933b66b11f559ce5b004eb1177ba43ee6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0035-post-56/14_24PR_Encoder_28335.zip"
+        },
+        {
+          "filename": "734d2574d6db908281289448e6393bfe_093013.png",
+          "bytes": 909808,
+          "sha256": "efb0346a94d24fb6951d0349b82be399bc5c5754df858a47f5712f51ca8de7bc",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0035-post-56/734d2574d6db908281289448e6393bfe_093013.png"
+        },
+        {
+          "filename": "Workspace_28335_092704.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0035-post-56/Workspace_28335_092704.png"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "sno": 57,
+      "date": "2022-07-07",
+      "title": "[F28335] CAN 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0036-post-57",
+      "commit": "ff42551cdd703890ee78785335b174bee87925f4",
+      "files": [
+        {
+          "filename": "15_CAN_External_Loopback_28335.zip",
+          "bytes": 296363,
+          "sha256": "f68758638ffb08cd19c520e4bae65fc231893c42750d1d2b8b7b4cdbb7a052dd",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0036-post-57/15_CAN_External_Loopback_28335.zip"
+        },
+        {
+          "filename": "5e4086e3b51f582f74da947fe1acdb6a_110828.png",
+          "bytes": 902706,
+          "sha256": "16835c127cf3e1825337e775c7fa4be272969c998a68634347515e8c5d8e5fd0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0036-post-57/5e4086e3b51f582f74da947fe1acdb6a_110828.png"
+        },
+        {
+          "filename": "4e870db4ff4ea421d946d7b510a3e9a2_110841.png",
+          "bytes": 496657,
+          "sha256": "ebd79443fcb432786ce274fea0777883067ebb0fec4a0545b091a334554cc10e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0036-post-57/4e870db4ff4ea421d946d7b510a3e9a2_110841.png"
+        },
+        {
+          "filename": "Workspace_28335_110608.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0036-post-57/Workspace_28335_110608.png"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "sno": 58,
+      "date": "2022-07-07",
+      "title": "[F28335] RS485 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0037-post-58",
+      "commit": "8f9d433afea35d205bef0e76b5cf13721cf47775",
+      "files": [
+        {
+          "filename": "16_RS485_External_Loopback_28335.zip",
+          "bytes": 293311,
+          "sha256": "742330cc28a3a81d61de5a8d6718b3f3c9415aacc8bd1b361b55c6ef18d164d5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0037-post-58/16_RS485_External_Loopback_28335.zip"
+        },
+        {
+          "filename": "325988721badc72359ca34a722e427fb_130705.png",
+          "bytes": 911026,
+          "sha256": "72e8fa039525f59a19d2b89bd070376f8bfdf41c45716b4f411b1be4e43fe024",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0037-post-58/325988721badc72359ca34a722e427fb_130705.png"
+        },
+        {
+          "filename": "85b7e254995597c7c9e51e31e8ffa316_130729.png",
+          "bytes": 521250,
+          "sha256": "3465a27e00879e13d876b5962c98511ad1ae365aceba7398c6adf713ada8ba9e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0037-post-58/85b7e254995597c7c9e51e31e8ffa316_130729.png"
+        },
+        {
+          "filename": "Workspace_28335_130442.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0037-post-58/Workspace_28335_130442.png"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "sno": 59,
+      "date": "2022-07-07",
+      "title": "[F28335] RS232 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0038-post-59",
+      "commit": "3322da7332a261b0264dba232ca649d98b82647e",
+      "files": [
+        {
+          "filename": "17_RS232_External_Loopback_28335.zip",
+          "bytes": 292549,
+          "sha256": "47a899cfdad38646fbe65795c69da06eeb165aacd25fb121653c71dad5ef273c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0038-post-59/17_RS232_External_Loopback_28335.zip"
+        },
+        {
+          "filename": "9557c33ff7a24639c31dcbbdd6c65205_143120.png",
+          "bytes": 899531,
+          "sha256": "bd374926ea1f56541cd1054eed9e21a430561874e0f024e807883d53ee5f5904",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0038-post-59/9557c33ff7a24639c31dcbbdd6c65205_143120.png"
+        },
+        {
+          "filename": "Workspace_28335_143003.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0038-post-59/Workspace_28335_143003.png"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "sno": 60,
+      "date": "2022-07-11",
+      "title": "[F28335] SPI 통신 Internal Loopback Test 예제 (FIFO / Interrupt)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0039-post-60",
+      "commit": "0542634155bfae199c257c60dfa8a03d1ea5ff1b",
+      "files": [
+        {
+          "filename": "20_SPI_Internal_Loopback_FIFO_Interrupt_28335.zip",
+          "bytes": 292594,
+          "sha256": "a484ee1b45de04c3a20a142ab095884691a6af13fc7c6a3edc95667956184ca8",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0039-post-60/20_SPI_Internal_Loopback_FIFO_Interrupt_28335.zip"
+        },
+        {
+          "filename": "Workspace_28335_132142.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0039-post-60/Workspace_28335_132142.png"
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "sno": 61,
+      "date": "2022-07-11",
+      "title": "[F28335] I2C 통신 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0040-post-61",
+      "commit": "d2668d7926877cbf642a2f5252f979ae30f20d85",
+      "files": [
+        {
+          "filename": "21_I2C_Test_28335.zip",
+          "bytes": 296221,
+          "sha256": "c482efe8919b05ec5665f5d5ab079e648ebfa985ef04e7ffdd5c626c82e7451d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0040-post-61/21_I2C_Test_28335.zip"
+        },
+        {
+          "filename": "Workspace_28335_134411.png",
+          "bytes": 11721,
+          "sha256": "03e4eb5ddfdce898c51a85f1f00b18da0f631fd1619f51a0c3c0e251733e28d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0040-post-61/Workspace_28335_134411.png"
+        },
+        {
+          "filename": "6b03913482aff2da8d8d72eb01e21bc9_134715.png",
+          "bytes": 706742,
+          "sha256": "f6e3ee14ee2e33b574c4148ad56d3756e59a227e4841f8250aa447f067dcdb77",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0040-post-61/6b03913482aff2da8d8d72eb01e21bc9_134715.png"
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "sno": 62,
+      "date": "2022-11-24",
+      "title": "[F2838x / CPU1] 3채널 PWM-to-Analog 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0041-post-62",
+      "commit": "43a4308ccc50705a82f236a159e1480e4bc1cb90",
+      "files": [
+        {
+          "filename": "3_PWM_to_Analog_3Ch_2838x_v2.zip",
+          "bytes": 1619110,
+          "sha256": "93b3a23736988c85a18834d20ab54674990af4b12fdf1b4c8804d3c8901aa233",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/3_PWM_to_Analog_3Ch_2838x_v2.zip"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img1.png",
+          "bytes": 642993,
+          "sha256": "a7f640322f8f707bdeb500ff476568a8ff4d7ad3ea9e22cdff4f3c374a4152da",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/3_PWM_to_Analog_3Ch_img1.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img2.png",
+          "bytes": 736604,
+          "sha256": "98df9460e44df6b9ef19314b2f66225aeb47d86db726197ba61b7632074e7343",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/3_PWM_to_Analog_3Ch_img2.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img4.png",
+          "bytes": 647219,
+          "sha256": "38e6ed0ab3e28a2fa5f452f4c9739b56432347e2b7b100a51e520dc926f480a9",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/3_PWM_to_Analog_3Ch_img4.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img5.png",
+          "bytes": 740922,
+          "sha256": "9f406272693adbac019c2ea30423497da31c7f30ee7c508808c5fc1e57fea499",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/3_PWM_to_Analog_3Ch_img5.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/2838x_Workspace.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img3.png",
+          "bytes": 36549,
+          "sha256": "1d2af0f0b1671c406033d771ceac8c05287819536f6b70431d0fbbbcd452cbee",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/3_PWM_to_Analog_3Ch_img3.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img6.png",
+          "bytes": 67459,
+          "sha256": "26ee3cfa9df5f895ca7c62265de5490de24590cc6f9495289ebfe21c49f29265",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0041-post-62/3_PWM_to_Analog_3Ch_img6.png"
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "sno": 63,
+      "date": "2022-11-24",
+      "title": "[F2838x / CPU1] 피에조 부저(Piezo Buzzer)를 이용한 음계 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0042-post-63",
+      "commit": "bea0ef193dd96226a541ab98b112678d12eda72e",
+      "files": [
+        {
+          "filename": "4_Buzzer_4-Octave_Scales_2838x_v2.zip",
+          "bytes": 1616724,
+          "sha256": "cf314c3fb82507bb47c9b206d33783ce866832c3ae4068efbe6b4ec3276570cc",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0042-post-63/4_Buzzer_4-Octave_Scales_2838x_v2.zip"
+        },
+        {
+          "filename": "4_Buzzer_4-Octave_Scales_img1.png",
+          "bytes": 647752,
+          "sha256": "f70f162c35e9a6325689764461dc11f1364e4aedd1ff78916c8a3a8d9ba5b2be",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0042-post-63/4_Buzzer_4-Octave_Scales_img1.png"
+        },
+        {
+          "filename": "4_Buzzer_4-Octave_Scales_img2.png",
+          "bytes": 741793,
+          "sha256": "550e826f0a3c2157f73f21e3b448c34a87fadce2a2818cbdd15a3307ba3ae86b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0042-post-63/4_Buzzer_4-Octave_Scales_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0042-post-63/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "sno": 64,
+      "date": "2022-11-25",
+      "title": "[F2838x / CPU1] 피에조 부저(Piezo Buzzer) 소리 ADC 확인 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0043-post-64",
+      "commit": "d8680f12ccd020dc6c1cb4d2a029b7890d124f71",
+      "files": [
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_2838x_v2.zip",
+          "bytes": 1620415,
+          "sha256": "4f0dbf231466c38bfeeea6943197e7dfba9ef49b910d046be62d6db566868b29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0043-post-64/4_Buzzer_ResonantFreq_and_MIC_2838x_v2.zip"
+        },
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_img1.png",
+          "bytes": 647643,
+          "sha256": "c608a556c8e132c17880b03647a32c693fb68c862c908d17e982635096c2cc64",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0043-post-64/4_Buzzer_ResonantFreq_and_MIC_img1.png"
+        },
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_img2.png",
+          "bytes": 742222,
+          "sha256": "2404a5524a77f6292716f09775ab2ac10621ac5603a271fb8b5f6fd46d40af4a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0043-post-64/4_Buzzer_ResonantFreq_and_MIC_img2.png"
+        },
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_img3.png",
+          "bytes": 132440,
+          "sha256": "ad30e1e967c888567926f416fa58a05ed9ad543309336dc3ef329dcaa5c93ecb",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0043-post-64/4_Buzzer_ResonantFreq_and_MIC_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0043-post-64/2838x_Workspace.png"
+        },
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_img4.png",
+          "bytes": 17099,
+          "sha256": "07fa5576e119a50461aeb88002ec6735ae9845e5c7ce0bfc3427e3b26c17173d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0043-post-64/4_Buzzer_ResonantFreq_and_MIC_img4.png"
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "sno": 65,
+      "date": "2022-11-25",
+      "title": "[F2838x / CPU1] PC 마우스 장치 에뮬레이션 예제 (USB Device Mouse)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0044-post-65",
+      "commit": "46b6db70e450aebd4cb99cac7f40ffbc38568865",
+      "files": [
+        {
+          "filename": "5_USB_Dev_Mouse_2838x_v2.zip",
+          "bytes": 1892981,
+          "sha256": "a2261281f9adf7c0eda5441ffbda8ed9eb7e27ad182605805b888427538c023b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/5_USB_Dev_Mouse_2838x_v2.zip"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img1.png",
+          "bytes": 605785,
+          "sha256": "af1ac6b7a30b761b8c856f71443f84be01ca41f59e4fe556cf996fca0c5f202e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/5_USB_Dev_Mouse_img1.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img2.png",
+          "bytes": 675720,
+          "sha256": "9c1f39e7a30181e1bdf51974b81fe57220a80c2c2af5313c232d2b124edc5361",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/5_USB_Dev_Mouse_img2.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img3.png",
+          "bytes": 551972,
+          "sha256": "0242e4b61de1abc5edac8c33b71d7eca56c0007f80f92fd8174f48f41297721f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/5_USB_Dev_Mouse_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/2838x_Workspace.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img4.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/5_USB_Dev_Mouse_img4.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img5.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/5_USB_Dev_Mouse_img5.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img6.png",
+          "bytes": 48762,
+          "sha256": "0f8025135ce319fd2b488aeb85470afba6abcc916e8b025d17e065cca0fbe85e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0044-post-65/5_USB_Dev_Mouse_img6.png"
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "sno": 66,
+      "date": "2022-11-25",
+      "title": "[F2838x / CPU1] 28X 칩과 USB 마우스간 연결 예제 (USB Host Mouse)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0045-post-66",
+      "commit": "4c1b8144c88dca7c483815eeb212fb7b17529d9d",
+      "files": [
+        {
+          "filename": "5_USB_Host_Mouse_2838x_v2.zip",
+          "bytes": 1890563,
+          "sha256": "a174538f144ac42c7cdc7fd4cb203f21cae3307e9256d2fc42607d6913fde862",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0045-post-66/5_USB_Host_Mouse_2838x_v2.zip"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img1.png",
+          "bytes": 637733,
+          "sha256": "90c0e450ed42f61083600b5248559619ad9702385b1add85ef8df56801b4ecf9",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0045-post-66/5_USB_Host_Mouse_img1.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img3.png",
+          "bytes": 498700,
+          "sha256": "6bf9f7b30201cbf561cded48e1517d99afe4a07f79a0d6e9d53cd3678a0a3be6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0045-post-66/5_USB_Host_Mouse_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0045-post-66/2838x_Workspace.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img4.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0045-post-66/5_USB_Host_Mouse_img4.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img5.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0045-post-66/5_USB_Host_Mouse_img5.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img6.png",
+          "bytes": 12578,
+          "sha256": "28faaabba9048edbce4413956fcb870af831a55c3d5d701e33808ed9f1610086",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0045-post-66/5_USB_Host_Mouse_img6.png"
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "sno": 67,
+      "date": "2022-11-25",
+      "title": "[F2838x / CPU1] USB 메모리 제어(RW) 예제 (USB_Host_MSC)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0046-post-67",
+      "commit": "093c5f199a24ca29a83c8f654ff5227908ad5a6b",
+      "files": [
+        {
+          "filename": "5_USB_Host_MSC_2838x_v2.zip",
+          "bytes": 1880396,
+          "sha256": "d8caca644ddfeae3c45fec7485a88733e3328aaebdf5fbfd77101b5ad258e27b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0046-post-67/5_USB_Host_MSC_2838x_v2.zip"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img1.png",
+          "bytes": 596097,
+          "sha256": "2d1173aaad475721e2f964a2e2ede248d391764dbe08cf8d21c351459f93b912",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0046-post-67/5_USB_Host_MSC_img1.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img2.png",
+          "bytes": 498700,
+          "sha256": "6bf9f7b30201cbf561cded48e1517d99afe4a07f79a0d6e9d53cd3678a0a3be6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0046-post-67/5_USB_Host_MSC_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0046-post-67/2838x_Workspace.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img3.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0046-post-67/5_USB_Host_MSC_img3.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img4.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0046-post-67/5_USB_Host_MSC_img4.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img5.png",
+          "bytes": 47438,
+          "sha256": "0009f1506b43ddeb48237cb29856542735d6b9b3e1db9dfec04ef93851839d62",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0046-post-67/5_USB_Host_MSC_img5.png"
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "sno": 68,
+      "date": "2022-11-25",
+      "title": "[F2838x / CPU1] 개발보드 택트(Tactile) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0047-post-68",
+      "commit": "909ff732f2b3410581674fdf7bf44cfe875e458c",
+      "files": [
+        {
+          "filename": "6_GP_Tactile_Switch_4Ch_2838x_v2.zip",
+          "bytes": 1615596,
+          "sha256": "126311f89c638bdbd019fa8fed850a46f7730227be859f10559d3bb65906b05a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0047-post-68/6_GP_Tactile_Switch_4Ch_2838x_v2.zip"
+        },
+        {
+          "filename": "6_GP_Tactile_Switch_4Ch_img1.png",
+          "bytes": 636623,
+          "sha256": "211dbf9ec6b262804c0223687ee4469f01ef06808583e8ceff083e26581f9e62",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0047-post-68/6_GP_Tactile_Switch_4Ch_img1.png"
+        },
+        {
+          "filename": "6_GP_Tactile_Switch_4Ch_img2.png",
+          "bytes": 731766,
+          "sha256": "87a04bd5d88f71a95221c9303110add9d2de15cdc128f78e857b79f7c60ab803",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0047-post-68/6_GP_Tactile_Switch_4Ch_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0047-post-68/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "sno": 69,
+      "date": "2022-11-28",
+      "title": "[F2838x / CPU1] 개발보드 토글(Toggle) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0048-post-69",
+      "commit": "cafdb1ec0cb5186d62250b2c3bf9125e9936364b",
+      "files": [
+        {
+          "filename": "7_GP_Toggle_Switch_8Ch_2838x_v2.zip",
+          "bytes": 1615004,
+          "sha256": "eee3f70585311fa210bd4cc068ecaa3d0880ab1311937a12d929f3d78e8a02cc",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0048-post-69/7_GP_Toggle_Switch_8Ch_2838x_v2.zip"
+        },
+        {
+          "filename": "7_GP_Toggle_Switch_8Ch_img1.png",
+          "bytes": 643235,
+          "sha256": "1d0942282b842a9eaf62b483fe288cf1c66f17bd3eb2607b252bd4e19c7b86b7",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0048-post-69/7_GP_Toggle_Switch_8Ch_img1.png"
+        },
+        {
+          "filename": "7_GP_Toggle_Switch_8Ch_img2.png",
+          "bytes": 735965,
+          "sha256": "23a818e2581d80a78dbb1aa2be086e5a873b93dce57162011f9b9a237dcc167a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0048-post-69/7_GP_Toggle_Switch_8Ch_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0048-post-69/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "sno": 70,
+      "date": "2022-11-28",
+      "title": "[F2838x / CPU1] 개발보드 LED 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0049-post-70",
+      "commit": "3465122e20863dc4eb3ed8a853b9d8241d3158b6",
+      "files": [
+        {
+          "filename": "8_GP_LED_16Ch_2838x_v2.zip",
+          "bytes": 1614839,
+          "sha256": "88e813786ae624921a72ff5c374e46370b4cf601dd0ab76d74a0f1503d210aaa",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0049-post-70/8_GP_LED_16Ch_2838x_v2.zip"
+        },
+        {
+          "filename": "8_GP_LED_16Ch_img1.png",
+          "bytes": 662192,
+          "sha256": "61238e2c5b4dbd6d96e4d26c0b4bf9332236612880676d3522c7d2be027f4745",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0049-post-70/8_GP_LED_16Ch_img1.png"
+        },
+        {
+          "filename": "8_GP_LED_16Ch_img2.png",
+          "bytes": 756598,
+          "sha256": "ebc7fbbea7e7fe5bad973b8da122b1398817c976a414acc6cde725f8bb833e5d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0049-post-70/8_GP_LED_16Ch_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0049-post-70/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "sno": 71,
+      "date": "2022-12-02",
+      "title": "[F2838x / CPU1] 개발보드 2채널 가변전압 출력 회로 테스트 (Potentiometer ADC)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0050-post-71",
+      "commit": "1d793a05a8c7fc924352494682f08c96e46c0470",
+      "files": [
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_2838x_v2.zip",
+          "bytes": 1619500,
+          "sha256": "43b856958ded2257e6e24377bef038488065d974ed08966ba53a46b76c8be000",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0050-post-71/9_Potentiometer_2Ch_ADC_2838x_v2.zip"
+        },
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_img1.png",
+          "bytes": 634024,
+          "sha256": "4a6f1791beaa63127c5ac4eb7e5646b5b4ca374a259087dd715c4c3b92c970cc",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0050-post-71/9_Potentiometer_2Ch_ADC_img1.png"
+        },
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_img2.png",
+          "bytes": 730740,
+          "sha256": "535346dc973cb3ccb5518d7bb7becced357c15b4ac6d12d3b5aab322f4109008",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0050-post-71/9_Potentiometer_2Ch_ADC_img2.png"
+        },
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_img3.png",
+          "bytes": 138119,
+          "sha256": "9945182b1df9f265c3a75434b4892a191a680dc8721c73cb3fb8459239439567",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0050-post-71/9_Potentiometer_2Ch_ADC_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0050-post-71/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "sno": 72,
+      "date": "2022-12-05",
+      "title": "[F2838x / CPU1] Micro SD 메모리 카드 제어 예제 1 (FAT FS / SD_Card)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0051-post-72",
+      "commit": "a42d22415bbbdeba510c3600890f154c683054a0",
+      "files": [
+        {
+          "filename": "10_SD_Card_1_2838x_v2.zip",
+          "bytes": 741894,
+          "sha256": "b4c18f2353bbcddc19c513a83e6360890e3e93a213a8a4c10912e94d5d2c24b6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0051-post-72/10_SD_Card_1_2838x_v2.zip"
+        },
+        {
+          "filename": "10_SD_Card_1_img1.png",
+          "bytes": 586909,
+          "sha256": "455a7317b8d3cab6fb4725da2068c36e7adedeb155a429963bba9d21a7eb16b1",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0051-post-72/10_SD_Card_1_img1.png"
+        },
+        {
+          "filename": "10_SD_Card_1_img2.png",
+          "bytes": 646823,
+          "sha256": "d390a884eb4c1d945729b8a176de9ca0aa563a9c65b7814ae6e561527752925c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0051-post-72/10_SD_Card_1_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0051-post-72/2838x_Workspace.png"
+        },
+        {
+          "filename": "10_SD_Card_1_img3.png",
+          "bytes": 46479,
+          "sha256": "07643b2d53bed803521d3a10d1522e34d59698980333d323554b69463e92914c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0051-post-72/10_SD_Card_1_img3.png"
+        },
+        {
+          "filename": "10_SD_Card_1_img4.png",
+          "bytes": 20125,
+          "sha256": "2a30c0969f1f4678cab409ba3252b2e3e7082481b8558476e0bc51e6ace4b285",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0051-post-72/10_SD_Card_1_img4.png"
+        },
+        {
+          "filename": "10_SD_Card_1_img5.png",
+          "bytes": 65600,
+          "sha256": "be42821a21a3798dd358bbf8d36a518e8273e0bffcdf44bb48df61dd319581b0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0051-post-72/10_SD_Card_1_img5.png"
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "sno": 73,
+      "date": "2022-12-05",
+      "title": "[F2838x / CPU1] Micro SD 메모리 카드 제어 예제 2 (RW Test / SD_Card)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0052-post-73",
+      "commit": "701714ee7aa0bdd9a36d809c92342d81c14a7ca3",
+      "files": [
+        {
+          "filename": "10_SD_Card_2_2838x_v2.zip",
+          "bytes": 1627508,
+          "sha256": "95c788f8902407b507b3973534e5c05f9d873742772ed01d7ca9c766052d665a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0052-post-73/10_SD_Card_2_2838x_v2.zip"
+        },
+        {
+          "filename": "10_SD_Card_2_img1.png",
+          "bytes": 407535,
+          "sha256": "10c9f7c2d79c7975a103838a2d29c79c6b33a9d50aeca578c2f209f8b831cbaf",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0052-post-73/10_SD_Card_2_img1.png"
+        },
+        {
+          "filename": "10_SD_Card_2_img2.png",
+          "bytes": 477574,
+          "sha256": "0f77e9ddc75cb6ff8c279bd6617511a9074ab00e93fb42d8d67c405b7699689d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0052-post-73/10_SD_Card_2_img2.png"
+        },
+        {
+          "filename": "10_SD_Card_2_img3.png",
+          "bytes": 181084,
+          "sha256": "c3e2c2d21e0cf6aee671d5694be81547049b4013c9170fc8d30243b5daf2f4e3",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0052-post-73/10_SD_Card_2_img3.png"
+        },
+        {
+          "filename": "10_SD_Card_2_img4.png",
+          "bytes": 152827,
+          "sha256": "8c16ebb7e85e3b94cd61d356c9cc6fbff8f97211aca922c3ef498ff4b2825aa1",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0052-post-73/10_SD_Card_2_img4.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0052-post-73/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "sno": 74,
+      "date": "2022-12-05",
+      "title": "[F2838x / CPU1] 개발보드 SCI(RS232)-to-USB 회로 테스트 예제 (Echo-back Test)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0053-post-74",
+      "commit": "431406388f7ae512fd44339eb46bc7bab271b7d9",
+      "files": [
+        {
+          "filename": "11_Serial-to-USB_2838x_v2.zip",
+          "bytes": 1617220,
+          "sha256": "ebf011f285c72fcb9726c64ee11b98d340fdade664d3f72232e9715a7b0ab49b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0053-post-74/11_Serial-to-USB_2838x_v2.zip"
+        },
+        {
+          "filename": "11_Serial-to-USB_img1.png",
+          "bytes": 635426,
+          "sha256": "c026a8a8fe0cf7740dacd93709c86ca6bd1729319d8f212b99c9345874047067",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0053-post-74/11_Serial-to-USB_img1.png"
+        },
+        {
+          "filename": "11_Serial-to-USB_img2.png",
+          "bytes": 713038,
+          "sha256": "e234f8bfc766b4d22749730993ea398831319a0aac091981d4d9704d3694a20e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0053-post-74/11_Serial-to-USB_img2.png"
+        },
+        {
+          "filename": "11_Serial-to-USB_img3.png",
+          "bytes": 110619,
+          "sha256": "a72d898b5b437f1c747b465d95ba38c0eee6f8bfe6dc8f8699f907ed31154c95",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0053-post-74/11_Serial-to-USB_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0053-post-74/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "sno": 75,
+      "date": "2022-12-06",
+      "title": "[F2838x / CPU1] 개발보드 Serial(SPI) EEPROM R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0054-post-75",
+      "commit": "a86f048130a45141c9eeaf6c93d9ff3ec49a1565",
+      "files": [
+        {
+          "filename": "12_Serial_EEPROM_M95M04_2838x_v2.zip",
+          "bytes": 2011135,
+          "sha256": "4346a39bcd4928ff3395604a8e941f3bd48104f88133503fc66cda39bf63be25",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0054-post-75/12_Serial_EEPROM_M95M04_2838x_v2.zip"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_img1.png",
+          "bytes": 655429,
+          "sha256": "887949fe5bee0c2c0708f756cc7c8a85b5fb1a27dac809a518a18637cca494d2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0054-post-75/12_Serial_EEPROM_M95M04_img1.png"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_img2.png",
+          "bytes": 730692,
+          "sha256": "03ce2de532352981aa08a6cf88c5848677e337b0f373defb3c7d2a25e294be63",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0054-post-75/12_Serial_EEPROM_M95M04_img2.png"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_img3.png",
+          "bytes": 115971,
+          "sha256": "235cf94122c612d144e3207268fc600dad74ffeb333a1f583a83f3dd48cd27f6",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0054-post-75/12_Serial_EEPROM_M95M04_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0054-post-75/2838x_Workspace.png"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_img4.png",
+          "bytes": 20759,
+          "sha256": "54462bc7189a804990c8af5eba380f9710ec898e36641fce2048505e295025c3",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0054-post-75/12_Serial_EEPROM_M95M04_img4.png"
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "sno": 76,
+      "date": "2022-12-06",
+      "title": "[F2838x / CPU1] 개발보드 Serial(SPI) FLASH R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0055-post-76",
+      "commit": "106074283a7a916434535dd5f1784076ad7b167e",
+      "files": [
+        {
+          "filename": "12_Serial_FLASH_M25P40_2838x_v2.zip",
+          "bytes": 2057881,
+          "sha256": "9eebc747c4d0b6fd97f549c7c9d47e48c2b777e7d5dd6d3cda3db417a7069e3b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0055-post-76/12_Serial_FLASH_M25P40_2838x_v2.zip"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_img1.png",
+          "bytes": 655750,
+          "sha256": "b2cf840ba63d813698bc034ed8e02a49ad345068645ce5082aeb65c60c24cf7e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0055-post-76/12_Serial_FLASH_M25P40_img1.png"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_img2.png",
+          "bytes": 730074,
+          "sha256": "1fadcbc630c34b871890accd16e2164b8251cef29801be7bea68c824415155d1",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0055-post-76/12_Serial_FLASH_M25P40_img2.png"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_img3.png",
+          "bytes": 113962,
+          "sha256": "bb5d25914a8712903af520b921b228e404b2fa5bcdf2a1692ada4a75a4fa0f4a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0055-post-76/12_Serial_FLASH_M25P40_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0055-post-76/2838x_Workspace.png"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_img4.png",
+          "bytes": 24043,
+          "sha256": "bae773ceb04a7e4d4083b35227cfc1cadef423ee75f5d82cdcd57545841604f5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0055-post-76/12_Serial_FLASH_M25P40_img4.png"
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "sno": 77,
+      "date": "2022-12-07",
+      "title": "[F2838x / CPU1] 개발보드 7-세그먼트 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0056-post-77",
+      "commit": "e6caf36cc46c1ddf430ea66313a18c1dfa2a12c9",
+      "files": [
+        {
+          "filename": "13_7-Segments_2838x_v2.zip",
+          "bytes": 2702256,
+          "sha256": "9a6d574d4aa197d078b898ef40c478f9c9847e1c11297626a0e3ecce4c40afa8",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0056-post-77/13_7-Segments_2838x_v2.zip"
+        },
+        {
+          "filename": "13_7-Segments_img1.png",
+          "bytes": 659485,
+          "sha256": "8ac36ab98d225c79399bbf2137930c40080588b9b4a037437c096b77cb64bf0c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0056-post-77/13_7-Segments_img1.png"
+        },
+        {
+          "filename": "13_7-Segments_img2.png",
+          "bytes": 753913,
+          "sha256": "ae55145df01be0d63df21ccde5a1416918ffc72981be3610edeeb56117d70bbe",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0056-post-77/13_7-Segments_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0056-post-77/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "sno": 78,
+      "date": "2022-12-08",
+      "title": "[F2838x / CPU1] 개발보드 로터리 엔코더(24P/R) 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0057-post-78",
+      "commit": "114383ef41360f4fe819f6c796cb91e7f5a21949",
+      "files": [
+        {
+          "filename": "14_24PR_Encoder_2838x_v2.zip",
+          "bytes": 1618295,
+          "sha256": "1b64a9e32d1ca4806da3bfd58b6d205c7ba9cae6ad229a37bb3c928682c0af4d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0057-post-78/14_24PR_Encoder_2838x_v2.zip"
+        },
+        {
+          "filename": "14_24PR_Encoder_img1.png",
+          "bytes": 670678,
+          "sha256": "c03b0f710cfcfeebeb03a862c8c5ceeef6f4e2841076cf343f8c2c32dc02d013",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0057-post-78/14_24PR_Encoder_img1.png"
+        },
+        {
+          "filename": "14_24PR_Encoder_img2.png",
+          "bytes": 763810,
+          "sha256": "312f6773a87e9ee2ef0475de6e98858a2ef0afb103e8da3cdeccd74f81cd5416",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0057-post-78/14_24PR_Encoder_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0057-post-78/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "sno": 79,
+      "date": "2022-12-09",
+      "title": "[F2838x / CPU1] CAN 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0058-post-79",
+      "commit": "f90221b0af07bf05e8121db8f8a52414a7f4e2a2",
+      "files": [
+        {
+          "filename": "15_CAN_External_Loopback_2838x_v2.zip",
+          "bytes": 1636727,
+          "sha256": "6fbf0752a60d4c0c220bfe866d6aa2fe823699b6808ed4bb6a4e57b98529dd47",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0058-post-79/15_CAN_External_Loopback_2838x_v2.zip"
+        },
+        {
+          "filename": "15_CAN_External_Loopback_img1.png",
+          "bytes": 642342,
+          "sha256": "fb68181762dac5ad4cbf44fa05b727e004aae8552ddeadead8cbd6ca595858a8",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0058-post-79/15_CAN_External_Loopback_img1.png"
+        },
+        {
+          "filename": "15_CAN_External_Loopback_img2.png",
+          "bytes": 738700,
+          "sha256": "90defa29a7a45e8ff914d244836635ce159b3bcd7c5b4980102f5e038451f577",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0058-post-79/15_CAN_External_Loopback_img2.png"
+        },
+        {
+          "filename": "15_CAN_External_Loopback_img3.png",
+          "bytes": 496657,
+          "sha256": "ebd79443fcb432786ce274fea0777883067ebb0fec4a0545b091a334554cc10e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0058-post-79/15_CAN_External_Loopback_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0058-post-79/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "sno": 80,
+      "date": "2022-12-09",
+      "title": "[F2838x / CPU1] RS485 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0059-post-80",
+      "commit": "21cdffca574f6575db0c6f3ace736e5b81b07218",
+      "files": [
+        {
+          "filename": "16_RS485_External_Loopback_2838x_v2.zip",
+          "bytes": 1616812,
+          "sha256": "582de5dd7823ffb8fe8d96989fcb6986606645825bc1dec9e3337ac15f199adf",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0059-post-80/16_RS485_External_Loopback_2838x_v2.zip"
+        },
+        {
+          "filename": "16_RS485_External_Loopback_img1.png",
+          "bytes": 648566,
+          "sha256": "145f36d1097fd0584e84e609bbfadce0272f24144462113767e807ba686df2b2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0059-post-80/16_RS485_External_Loopback_img1.png"
+        },
+        {
+          "filename": "16_RS485_External_Loopback_img2.png",
+          "bytes": 739679,
+          "sha256": "e87999ed7c4ce4ab1a9c156b061cc000fa912d6727044243872796e0ac440988",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0059-post-80/16_RS485_External_Loopback_img2.png"
+        },
+        {
+          "filename": "16_RS485_External_Loopback_img3.png",
+          "bytes": 521250,
+          "sha256": "3465a27e00879e13d876b5962c98511ad1ae365aceba7398c6adf713ada8ba9e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0059-post-80/16_RS485_External_Loopback_img3.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0059-post-80/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "sno": 81,
+      "date": "2022-12-09",
+      "title": "[F2838x / CPU1] RS232 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0060-post-81",
+      "commit": "f106260fb5d569ac95187b7fb926f9c8fc8af76d",
+      "files": [
+        {
+          "filename": "17_RS232_External_Loopback_2838x_v2.zip",
+          "bytes": 1616646,
+          "sha256": "b16f948eb2963d8beda876914d19fa2a64c7a8bf313a3b29ea8e23cc723d1498",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0060-post-81/17_RS232_External_Loopback_2838x_v2.zip"
+        },
+        {
+          "filename": "17_RS232_External_Loopback_img1.png",
+          "bytes": 639641,
+          "sha256": "fd798c50ba5809ebd69acce1488123b4d3f5bb1c55c1893ae231f4f1943970db",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0060-post-81/17_RS232_External_Loopback_img1.png"
+        },
+        {
+          "filename": "17_RS232_External_Loopback_img2.png",
+          "bytes": 733748,
+          "sha256": "77ef3847063344b8e47b8dd9808370d3a864f59232a67ccc7e8f9aa5ef6c6ea4",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0060-post-81/17_RS232_External_Loopback_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0060-post-81/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "sno": 82,
+      "date": "2022-12-09",
+      "title": "[F2838x / CPU1] I2C 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0061-post-82",
+      "commit": "c1fa3e7f1e2a26597c5a7f8a27c3432aac0aa307",
+      "files": [
+        {
+          "filename": "21_I2C_External_Loopback_2838x_v2.zip",
+          "bytes": 1617003,
+          "sha256": "03b9da750a8fdea1574bed52e2e5a29a1fc585ca377616fb8c9ef95ed2b7001f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0061-post-82/21_I2C_External_Loopback_2838x_v2.zip"
+        },
+        {
+          "filename": "21_I2C_External_Loopback_img1.png",
+          "bytes": 638592,
+          "sha256": "a0c4e265e9bb70e3c44918a5c5917fb8ecb95154de7720d1b5ff9a6d0aec35c7",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0061-post-82/21_I2C_External_Loopback_img1.png"
+        },
+        {
+          "filename": "21_I2C_External_Loopback_img2.png",
+          "bytes": 734863,
+          "sha256": "5360c8930c8b3993463801a79719b5e04e54ff01834e62e52c92e1df732874b3",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0061-post-82/21_I2C_External_Loopback_img2.png"
+        },
+        {
+          "filename": "2838x_Workspace.png",
+          "bytes": 13224,
+          "sha256": "9d09e2f1c2da5915a6b38cb1ab738cf550b1b140ac08b4cf3a0bca4f3005064a",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0061-post-82/2838x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "sno": 83,
+      "date": "2025-12-05",
+      "title": "[F28P55x / CPU1] 3채널 PWM-to-Analog 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0062-post-83",
+      "commit": "423441c0ee8b9668f8b1f643ad754cf6eaf348be",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_3_PWM_to_Analog_3Ch_28P55x.zip",
+          "bytes": 2049185,
+          "sha256": "faaf489011d41b6f598cef70ae40a2ae24b51d96aefea4b3614c135da539c70c",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0062-post-83/28XEVMV2_Example_3_PWM_to_Analog_3Ch_28P55x.zip"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img1.png",
+          "bytes": 986085,
+          "sha256": "a21b087a1de64472be3f94bf396b10a8edb90e702248060013a9dd77f8a8b88d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0062-post-83/3_PWM_to_Analog_3Ch_img1.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img3.png",
+          "bytes": 991245,
+          "sha256": "8d25021248c1bd7b12cbf166412ab89078c2e98263083c4766017e4b27657502",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0062-post-83/3_PWM_to_Analog_3Ch_img3.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0062-post-83/28P55x_Workspace.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img2.png",
+          "bytes": 36549,
+          "sha256": "1d2af0f0b1671c406033d771ceac8c05287819536f6b70431d0fbbbcd452cbee",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0062-post-83/3_PWM_to_Analog_3Ch_img2.png"
+        },
+        {
+          "filename": "3_PWM_to_Analog_3Ch_img4.png",
+          "bytes": 67459,
+          "sha256": "26ee3cfa9df5f895ca7c62265de5490de24590cc6f9495289ebfe21c49f29265",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0062-post-83/3_PWM_to_Analog_3Ch_img4.png"
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "sno": 84,
+      "date": "2025-12-10",
+      "title": "[F28P55x / CPU1] 피에조 부저(Piezo Buzzer)를 이용한 음계 출력 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0063-post-84",
+      "commit": "1546e98c356b4d1bd216e31b44acf32faf1cb069",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_4_Buzzer_4-Octave_Scales_28P55x.zip",
+          "bytes": 2047316,
+          "sha256": "be51f02b100bc2c6aeef30ef48da0d68583aac16c4ad7b195e159d128658362e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0063-post-84/28XEVMV2_Example_4_Buzzer_4-Octave_Scales_28P55x.zip"
+        },
+        {
+          "filename": "4_Buzzer_4-Octave_Scales_img1.png",
+          "bytes": 1314227,
+          "sha256": "8508a171495bbf25fd5d83821d54ce4effc0459f2df5d08013541b26562c0d98",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0063-post-84/4_Buzzer_4-Octave_Scales_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0063-post-84/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "sno": 85,
+      "date": "2025-12-10",
+      "title": "[F28P55x / CPU1] 피에조 부저(Piezo Buzzer) 소리 ADC 확인 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0064-post-85",
+      "commit": "83c8cb33cca8a775de2f37408e1bb1ae1801131e",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_4_Buzzer_ResonantFreq_and_MIC_28P55x.zip",
+          "bytes": 2048808,
+          "sha256": "2627fe966128ac901c9099f1c77f699238e224db7a39407f4e07a3380d408bfb",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0064-post-85/28XEVMV2_Example_4_Buzzer_ResonantFreq_and_MIC_28P55x.zip"
+        },
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_img1.png",
+          "bytes": 1318471,
+          "sha256": "9d73273d1fbbcf08d0c7c2dad8be23418d98b479dafc53b43a1639e2de2c8db9",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0064-post-85/4_Buzzer_ResonantFreq_and_MIC_img1.png"
+        },
+        {
+          "filename": "4_Buzzer_ResonantFreq_and_MIC_img2.png",
+          "bytes": 103977,
+          "sha256": "234e4c6b86001b243baec7f5927962638f28d712752adce3c57623651090f326",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0064-post-85/4_Buzzer_ResonantFreq_and_MIC_img2.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0064-post-85/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "sno": 86,
+      "date": "2025-12-11",
+      "title": "[F28P55x / CPU1] PC 마우스 장치 에뮬레이션 예제 (USB Device Mouse)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0065-post-86",
+      "commit": "be8b2b2b929d124389f8a2e55334976e23fb9737",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_5_USB_Dev_Mouse_28P55x.zip",
+          "bytes": 3584154,
+          "sha256": "025a62b8447f990a8d06a974907a37fc9d13da2379c592401ea18c32edbb4cb4",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0065-post-86/28XEVMV2_Example_5_USB_Dev_Mouse_28P55x.zip"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img1.png",
+          "bytes": 1071376,
+          "sha256": "21be135d677050b112d857f165e609b1db48c2296e571352cada0a96a913f2d0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0065-post-86/5_USB_Dev_Mouse_img1.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img2.png",
+          "bytes": 1017240,
+          "sha256": "efe1ebe45b78c5935490b4eab60fd506b376a9154efeb12fbd9e103a770af863",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0065-post-86/5_USB_Dev_Mouse_img2.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img3.png",
+          "bytes": 63222,
+          "sha256": "e75badaebfcaeef391dd730581e21eb39bcb6cd90f0a1374fab03031cdd353d0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0065-post-86/5_USB_Dev_Mouse_img3.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img4.png",
+          "bytes": 28964,
+          "sha256": "23f33200f7930d4434196a5c19f5677230fe3cf02727974e423fc1f3504307a7",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0065-post-86/5_USB_Dev_Mouse_img4.png"
+        },
+        {
+          "filename": "5_USB_Dev_Mouse_img5.png",
+          "bytes": 32946,
+          "sha256": "1106f44e6085f500bfd2921dbdcc47c20d1229fcb3145d757dac4abe5fa8d16f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0065-post-86/5_USB_Dev_Mouse_img5.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0065-post-86/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "sno": 87,
+      "date": "2025-12-12",
+      "title": "[F28P55x / CPU1] 28X 칩과 USB 마우스간 연결 예제 (USB Host Mouse)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0066-post-87",
+      "commit": "b2e529b0fe46cbb709baec205515583e340a52b9",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_5_USB_Host_Mouse_28P55x.zip",
+          "bytes": 3584012,
+          "sha256": "5ca17d217c3ba3e56cc8c0f6c9d8c3f3d75fa67c2472278321ad9a305de5face",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0066-post-87/28XEVMV2_Example_5_USB_Host_Mouse_28P55x.zip"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img1.png",
+          "bytes": 1102881,
+          "sha256": "436e2a5bac6639736a017f83ac5d2a75f56bb4bed8c835da778c563ce519372e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0066-post-87/5_USB_Host_Mouse_img1.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img2.png",
+          "bytes": 1295195,
+          "sha256": "558f1b4064c265d2e93104ac76d01bede8c13e3702ec1169f12b559c14a0f733",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0066-post-87/5_USB_Host_Mouse_img2.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img3.png",
+          "bytes": 63222,
+          "sha256": "e75badaebfcaeef391dd730581e21eb39bcb6cd90f0a1374fab03031cdd353d0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0066-post-87/5_USB_Host_Mouse_img3.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img4.png",
+          "bytes": 28964,
+          "sha256": "23f33200f7930d4434196a5c19f5677230fe3cf02727974e423fc1f3504307a7",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0066-post-87/5_USB_Host_Mouse_img4.png"
+        },
+        {
+          "filename": "5_USB_Host_Mouse_img5.png",
+          "bytes": 88060,
+          "sha256": "75fd68466111b122b6d1d308e512438fd83622c8eda82b96a7159dbfa9055620",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0066-post-87/5_USB_Host_Mouse_img5.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0066-post-87/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "sno": 88,
+      "date": "2025-12-24",
+      "title": "[F28P55x / CPU1] USB 메모리 제어(RW) 예제 (USB_Host_MSC)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0067-post-88",
+      "commit": "dc6496467a0f918a992008cc25c55403732fa4ec",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_5_USB_Host_MSC_28P55x.zip",
+          "bytes": 3603706,
+          "sha256": "2a40d0f7be9f9670941f8141eb397450d7655d6eca4b6562b0aa75d051d31d71",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0067-post-88/28XEVMV2_Example_5_USB_Host_MSC_28P55x.zip"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img1.png",
+          "bytes": 1044593,
+          "sha256": "f998f10bb06a9b1336c4f99e4cff1f41ce04aa41ac4a1ca191544c7d873fedc3",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0067-post-88/5_USB_Host_MSC_img1.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img2.png",
+          "bytes": 1295195,
+          "sha256": "558f1b4064c265d2e93104ac76d01bede8c13e3702ec1169f12b559c14a0f733",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0067-post-88/5_USB_Host_MSC_img2.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img3.png",
+          "bytes": 63222,
+          "sha256": "e75badaebfcaeef391dd730581e21eb39bcb6cd90f0a1374fab03031cdd353d0",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0067-post-88/5_USB_Host_MSC_img3.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img4.png",
+          "bytes": 28964,
+          "sha256": "23f33200f7930d4434196a5c19f5677230fe3cf02727974e423fc1f3504307a7",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0067-post-88/5_USB_Host_MSC_img4.png"
+        },
+        {
+          "filename": "5_USB_Host_MSC_img5.png",
+          "bytes": 29527,
+          "sha256": "e8b7e2ee5e78f245a650f05e99cbf8aff5057b4de4c3498c4e1d035be57410ba",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0067-post-88/5_USB_Host_MSC_img5.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0067-post-88/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "sno": 89,
+      "date": "2026-01-05",
+      "title": "[F28P55x / CPU1] 개발보드 택트(Tactile) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0068-post-89",
+      "commit": "bf530291401e668805848d9ce7b34e7ac33da3f6",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_6_GP_Tactile_Switch_4Ch_28P55x.zip",
+          "bytes": 2046805,
+          "sha256": "726afc2f86b23fc1a2d0b478d9e2cbf5ce109849536514c74fab376ef7957d3b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0068-post-89/28XEVMV2_Example_6_GP_Tactile_Switch_4Ch_28P55x.zip"
+        },
+        {
+          "filename": "6_GP_Tactile_Switch_4Ch_img1.png",
+          "bytes": 1212533,
+          "sha256": "c285ba982d0cdadb441eba7ead991483c941be0bb76487c8d05bf35efde20534",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0068-post-89/6_GP_Tactile_Switch_4Ch_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0068-post-89/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "sno": 90,
+      "date": "2026-01-05",
+      "title": "[F28P55x / CPU1] 개발보드 토글(Toggle) 스위치 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0069-post-90",
+      "commit": "3f929856a7c0baed74cc608ceb81e0989be7f9aa",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_7_GP_Toggle_Switch_8Ch_28P55x.zip",
+          "bytes": 2046548,
+          "sha256": "694a778db057aa0c38d53cd561b7aae871930e0888a2785918981f05d5a99c4b",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0069-post-90/28XEVMV2_Example_7_GP_Toggle_Switch_8Ch_28P55x.zip"
+        },
+        {
+          "filename": "7_GP_Toggle_Switch_8Ch_img1.png",
+          "bytes": 951751,
+          "sha256": "64d34d4dd88ae8f8f643a28de94b33c0cd3ac180779ac980a404e34227a5a6ed",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0069-post-90/7_GP_Toggle_Switch_8Ch_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0069-post-90/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "sno": 91,
+      "date": "2026-01-06",
+      "title": "[F28P55x / CPU1] 개발보드 LED 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0070-post-91",
+      "commit": "636622176c0b928cab3ba93c0dec3f511024daad",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_8_GP_LED_16Ch_28P55x.zip",
+          "bytes": 2046093,
+          "sha256": "88595c97b0fe247cd264163e0b85dcb631668625812fdd29410781ac0de29af2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0070-post-91/28XEVMV2_Example_8_GP_LED_16Ch_28P55x.zip"
+        },
+        {
+          "filename": "8_GP_LED_16Ch_img1.png",
+          "bytes": 1250179,
+          "sha256": "47fc5983a5b8c61ba098f98cee3373966163a110548e5a34a18f162ae711f70f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0070-post-91/8_GP_LED_16Ch_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0070-post-91/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "sno": 92,
+      "date": "2026-01-06",
+      "title": "[F28P55x / CPU1] 개발보드 2채널 가변전압 출력 회로 테스트 (Potentiometer ADC)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0071-post-92",
+      "commit": "d103f82d4d82927f7da64ece7cf6e8764ddc47fd",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_9_Potentiometer_2Ch_ADC_28P55x.zip",
+          "bytes": 2048059,
+          "sha256": "c18a74faeabd31d0c4fcbc7bfbe3c42424f2a853795064301243dbf8b014ba91",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0071-post-92/28XEVMV2_Example_9_Potentiometer_2Ch_ADC_28P55x.zip"
+        },
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_img1.png",
+          "bytes": 1229765,
+          "sha256": "2db2e207d64b202e875841eb1a9f21afbb6f20e24e4b6ee005f06e925c6c95ab",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0071-post-92/9_Potentiometer_2Ch_ADC_img1.png"
+        },
+        {
+          "filename": "9_Potentiometer_2Ch_ADC_img2.png",
+          "bytes": 109827,
+          "sha256": "bc49a9d03f3758bc38c96349d3edde575422c544a0062a61fcf9717c96ecf283",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0071-post-92/9_Potentiometer_2Ch_ADC_img2.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0071-post-92/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "sno": 93,
+      "date": "2026-01-09",
+      "title": "[F28P55x / CPU1] μ SD 카드 테스트 예제 - 1 (FAT FS 라이브러리 이용)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0072-post-93",
+      "commit": "290bcf43bb3e9bcd84ad37d36a65d0863e8da2e3",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_10_sd_fat32_28P55x.zip",
+          "bytes": 2440280,
+          "sha256": "b354ae1f7bf94a0cab0c2c7c8b848c299f0a6c31fa4496feebfcf645fc470742",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0072-post-93/28XEVMV2_Example_10_sd_fat32_28P55x.zip"
+        },
+        {
+          "filename": "10_sd_fat32_img1.png",
+          "bytes": 1104898,
+          "sha256": "463c8d070350ecf658bc1e8e8204d9b5e7905faf1ff7df6fe692c9d5367eb895",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0072-post-93/10_sd_fat32_img1.png"
+        },
+        {
+          "filename": "10_sd_fat32_img2.png",
+          "bytes": 100101,
+          "sha256": "369cafd6f9ffcc4c290e889e1205c67a1201358a61fb288210a2c19d488badc8",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0072-post-93/10_sd_fat32_img2.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0072-post-93/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "sno": 94,
+      "date": "2026-01-09",
+      "title": "[F28P55x / CPU1] μ SD 카드 테스트 예제 - 2",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0073-post-94",
+      "commit": "0d0fbe37bd54bb12fb4b1b5019953401d1cf7bf2",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_10_sd_card_28P55x.zip",
+          "bytes": 3044882,
+          "sha256": "c5a127d4211b5aa9e66a2db6e4d8659e98341307ae3992169f3fb300a18be699",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0073-post-94/28XEVMV2_Example_10_sd_card_28P55x.zip"
+        },
+        {
+          "filename": "10_sd_card_img1.png",
+          "bytes": 1104864,
+          "sha256": "4b7ed268142e8df64f8175b8c7b2f967551c0efc65cacb2d6d2d5d2ab68ea2d5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0073-post-94/10_sd_card_img1.png"
+        },
+        {
+          "filename": "10_sd_card_img2.png",
+          "bytes": 170476,
+          "sha256": "779c9d62f71daff46fdbbfece0e8898b9716d679b42fc482dda7f84ebf1e9c7f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0073-post-94/10_sd_card_img2.png"
+        },
+        {
+          "filename": "10_sd_card_img3.png",
+          "bytes": 143894,
+          "sha256": "c9e8634bfebe166b9e7b5e3b8ea5cac3a08f951c78eb54dbd82aa914e436060d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0073-post-94/10_sd_card_img3.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0073-post-94/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "sno": 95,
+      "date": "2026-01-12",
+      "title": "[F28P55x / CPU1] 개발보드 SCI(RS232)-to-USB 회로 테스트 예제 (Echo-back Test)",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0074-post-95",
+      "commit": "f801ec1b59ca6b703060c3f8e7e97264ca0edc54",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_11_Serial-to-USB_28P55x.zip",
+          "bytes": 2047733,
+          "sha256": "58ab3d761db2bcfbd31dda7ba6f9b7d1b3607531da41def500a487e302a6b24f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0074-post-95/28XEVMV2_Example_11_Serial-to-USB_28P55x.zip"
+        },
+        {
+          "filename": "11_Serial-to-USB_img1.png",
+          "bytes": 1055353,
+          "sha256": "feeb11d29cd427162974f82032bc0f331cc43815df4c089c9b360ea3f4bf4203",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0074-post-95/11_Serial-to-USB_img1.png"
+        },
+        {
+          "filename": "11_Serial-to-USB_img2.png",
+          "bytes": 110736,
+          "sha256": "ecfb1d0b5e655b37a7f298b624bc86302a7e6d67fdd1c16073f38463376f1dd5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0074-post-95/11_Serial-to-USB_img2.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0074-post-95/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "sno": 96,
+      "date": "2026-01-12",
+      "title": "[F28P55x / CPU1] 개발보드 Serial(SPI) EEPROM R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0075-post-96",
+      "commit": "dfc1c076f23c8c0972c9dde5e1199d7b981da236",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_12_Serial_EEPROM_M95M04_28P55x.zip",
+          "bytes": 2440112,
+          "sha256": "d0f251e485c60d8717fe33d36b04b0eb891151825be26ee1da4bdc6e0bdb1119",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0075-post-96/28XEVMV2_Example_12_Serial_EEPROM_M95M04_28P55x.zip"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_img1.png",
+          "bytes": 1071070,
+          "sha256": "655fea1d8f6ac7d588d8c2618f2d34e2e8210da662d13830b38c41d110d57a20",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0075-post-96/12_Serial_EEPROM_M95M04_img1.png"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_img2.png",
+          "bytes": 116966,
+          "sha256": "0f34368c1d797b516da4aece1f206a1700282c4314b97d9fbe8fc36f95d53ef2",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0075-post-96/12_Serial_EEPROM_M95M04_img2.png"
+        },
+        {
+          "filename": "12_Serial_EEPROM_M95M04_img3.png",
+          "bytes": 20906,
+          "sha256": "df512674bdc04cfab339b7d272c3082fefbbe7949f67bd754b4a1b3fec43941e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0075-post-96/12_Serial_EEPROM_M95M04_img3.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0075-post-96/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "sno": 97,
+      "date": "2026-01-12",
+      "title": "[F28P55x / CPU1] 개발보드 Serial(SPI) FLASH R/W/V 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0076-post-97",
+      "commit": "3ce28b331d5a7ab1083ed722e7bd1ba8c018c6bf",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_12_Serial_FLASH_M25P40_28P55x.zip",
+          "bytes": 2487010,
+          "sha256": "ec1ff8f595486969ecf2ce4401dd6f62486fd65c82f3ea67ee89b2e80d623a2d",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0076-post-97/28XEVMV2_Example_12_Serial_FLASH_M25P40_28P55x.zip"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_img1.png",
+          "bytes": 1071953,
+          "sha256": "d9544ab767fc704a1b14f79e243655c958f4d59ab0e526216319a5b54c2831c1",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0076-post-97/12_Serial_FLASH_M25P40_img1.png"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_img2.png",
+          "bytes": 113579,
+          "sha256": "e6a0c9da435c2f4000519a8535f358d6bd0af4c92b35b5031df67ad193fb09b5",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0076-post-97/12_Serial_FLASH_M25P40_img2.png"
+        },
+        {
+          "filename": "12_Serial_FLASH_M25P40_img3.png",
+          "bytes": 24303,
+          "sha256": "8b502344e24a0e19d18ee195dd8d9c39d332fb611b8005e8f25829c3e5b5a912",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0076-post-97/12_Serial_FLASH_M25P40_img3.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0076-post-97/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "sno": 98,
+      "date": "2026-01-13",
+      "title": "[F28P55x / CPU1] 개발보드 7-세그먼트 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0077-post-98",
+      "commit": "d0dbdb76f3702809a738539c4aa9617a4abcf44d",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_13_7-Segments_28P55x.zip",
+          "bytes": 3132410,
+          "sha256": "9676b51cf33dc65f80ebfd1f367c45fbfee90e7ac9230d568212bd7a64e706b1",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0077-post-98/28XEVMV2_Example_13_7-Segments_28P55x.zip"
+        },
+        {
+          "filename": "13_7-Segments_img1.png",
+          "bytes": 1236031,
+          "sha256": "9cf947a303ad5fdd6aaf1b247c5a38cf5fcd5ebb5a9dad6fe5d24ed8c6b04cba",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0077-post-98/13_7-Segments_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0077-post-98/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "sno": 99,
+      "date": "2026-01-13",
+      "title": "[F28P55x / CPU1] 개발보드 로터리 엔코더(24P/R) 테스트 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0078-post-99",
+      "commit": "5eab69de25dd5cb5d5d0639c71d6d7339d27039c",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_14_24PR_Encoder_28P55x.zip",
+          "bytes": 2048157,
+          "sha256": "4f5459457545c630ceb0c4845089c1f35d47c8e691d2f6171a055f9305c5e6a1",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0078-post-99/28XEVMV2_Example_14_24PR_Encoder_28P55x.zip"
+        },
+        {
+          "filename": "14_24PR_Encoder_img1.png",
+          "bytes": 1266785,
+          "sha256": "b01e2e41021adb55c7f62be3f915be5a6635aef815f9b61fd83a9ab85357fc59",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0078-post-99/14_24PR_Encoder_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0078-post-99/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "sno": 100,
+      "date": "2026-01-15",
+      "title": "[F28P55x / CPU1] MCAN 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0079-post-100",
+      "commit": "ede6517ef44d3c1427f113de3fdd2ca731c2ece6",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_15_MCAN_External_Loopback_28P55x.zip",
+          "bytes": 2049111,
+          "sha256": "e6ab196dad04a8149d5eed308941872ac94aa7cccfacfbba65815f8140bffdd9",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0079-post-100/28XEVMV2_Example_15_MCAN_External_Loopback_28P55x.zip"
+        },
+        {
+          "filename": "15_MCAN_External_Loopback_img1.png",
+          "bytes": 1215850,
+          "sha256": "1794b2e4b7d1657f7217e8943a2ce1f81f351d97901afb410d265d8116477385",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0079-post-100/15_MCAN_External_Loopback_img1.png"
+        },
+        {
+          "filename": "15_MCAN_External_Loopback_img2.png",
+          "bytes": 496657,
+          "sha256": "ebd79443fcb432786ce274fea0777883067ebb0fec4a0545b091a334554cc10e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0079-post-100/15_MCAN_External_Loopback_img2.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0079-post-100/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "sno": 101,
+      "date": "2026-01-15",
+      "title": "[F28P55x / CPU1] RS485 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0080-post-101",
+      "commit": "8307c43d1d83827f5765ba73bb511469e276aac4",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_16_RS485_External_Loopback_28P55x.zip",
+          "bytes": 2047771,
+          "sha256": "90353ea92a427d341b65c54ad781e38d95aca1801f48bb323bae25619b258ddb",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0080-post-101/28XEVMV2_Example_16_RS485_External_Loopback_28P55x.zip"
+        },
+        {
+          "filename": "16_RS485_External_Loopback_img1.png",
+          "bytes": 1330796,
+          "sha256": "e7515a731ff7fdf8830167c30abc4dd387f4b23234baa78b5de1772dfe03c64f",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0080-post-101/16_RS485_External_Loopback_img1.png"
+        },
+        {
+          "filename": "16_RS485_External_Loopback_img2.png",
+          "bytes": 521250,
+          "sha256": "3465a27e00879e13d876b5962c98511ad1ae365aceba7398c6adf713ada8ba9e",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0080-post-101/16_RS485_External_Loopback_img2.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0080-post-101/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "sno": 102,
+      "date": "2026-01-19",
+      "title": "[F28P55x / CPU1] RS232 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0081-post-102",
+      "commit": "cd524e50b098c52ac8a82302157f16728ac04463",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_17_RS232_External_Loopback_28P55x.zip",
+          "bytes": 2047762,
+          "sha256": "1f97d9bf745da320b116e544d5b8f56246706b4520cac904206c99cc208029be",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0081-post-102/28XEVMV2_Example_17_RS232_External_Loopback_28P55x.zip"
+        },
+        {
+          "filename": "17_RS232_External_Loopback_img1.png",
+          "bytes": 1311832,
+          "sha256": "61bdc76ceac1c87a12a404bc7ed747ad55ddeb01963ad35623a33b6fbdf6c391",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0081-post-102/17_RS232_External_Loopback_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0081-post-102/28P55x_Workspace.png"
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "sno": 103,
+      "date": "2026-01-20",
+      "title": "[F28P55x / CPU1] I2C 통신 External Loopback 예제",
+      "reviewOnly": false,
+      "directory": "tms320f28xevmv2/0082-post-103",
+      "commit": "03c7a2e560ab258d55f7b08559c3083add86ec74",
+      "files": [
+        {
+          "filename": "28XEVMV2_Example_21_I2C_External_Loopback_28P55x.zip",
+          "bytes": 2047969,
+          "sha256": "a8eec54daee964fa09a33747e28f78c90dde7479dfc73e96cda0199a7f008d58",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0082-post-103/28XEVMV2_Example_21_I2C_External_Loopback_28P55x.zip"
+        },
+        {
+          "filename": "21_I2C_External_Loopback_img1.png",
+          "bytes": 1310729,
+          "sha256": "7b46741b84a1f5ac76e39b45c67caf2386fb90021ffadb31bb1f6667c3032410",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0082-post-103/21_I2C_External_Loopback_img1.png"
+        },
+        {
+          "filename": "28P55x_Workspace.png",
+          "bytes": 12352,
+          "sha256": "a9b08cc627f0ccc4b435364dc3ef68961174103b01e11bd0aca796bc625f4c29",
+          "github": "https://github.com/c2000mcu-dev/f28xevm2/raw/refs/heads/main/tms320f28xevmv2/0082-post-103/28P55x_Workspace.png"
+        }
+      ]
+    }
+  ]
+}
